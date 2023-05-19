@@ -142,6 +142,7 @@ def main():
 
     accounts_expenses = {}
     accounts_credits = {}
+    accounts_balance = {}
     for account_number, movements in movements_data.items():
         for movement in movements:
             if debit := movement.get("debit"):
@@ -152,8 +153,10 @@ def main():
                 accounts_credits[account_number] = (
                     accounts_credits.get(account_number, 0) + credit
                 )
+        accounts_balance[account_number] = accounts_credits[account_number] - accounts_expenses[account_number]
     print("accounts_expenses", accounts_expenses)
     print("accounts_credits", accounts_credits)
+    print("accounts_balance", accounts_balance)
     prometeo_auth.logout()
 
 if __name__ == "__main__":
