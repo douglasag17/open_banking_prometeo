@@ -1,0 +1,127 @@
+https://docs.prometeoapi.com/reference/getproviderdetail
+{
+  "status": "success",
+  "provider": {
+    "name": "bancolombia_pers_co",
+    "aliases": [
+      "bancolombia"
+    ],
+    "country": "CO",
+    "auth_fields": [
+      {
+        "name": "username",
+        "type": "text",
+        "interactive": false,
+        "optional": false,
+        "label_es": "Usuario",
+        "label_en": "Username"
+      },
+      {
+        "name": "password",
+        "type": "password",
+        "interactive": false,
+        "optional": false,
+        "label_es": "Clave",
+        "label_en": "Password"
+      }
+    ],
+    "endpoints_status": {
+      "test": [
+        {
+          "endpoint": "/login/",
+          "status": "not_monitored",
+          "timestamp": "2023-05-19 04:57:30.158153"
+        },
+        {
+          "endpoint": "/logout/",
+          "status": "not_monitored",
+          "timestamp": "2023-05-19 04:57:30.158157"
+        },
+        {
+          "endpoint": "/account/{account_number}/movement/",
+          "status": "not_monitored",
+          "timestamp": "2023-05-19 04:57:30.158161"
+        },
+        {
+          "endpoint": "/account/",
+          "status": "not_monitored",
+          "timestamp": "2023-05-19 04:57:30.158165"
+        },
+        {
+          "endpoint": "/transfer/preprocess",
+          "status": "not_monitored",
+          "timestamp": "2023-05-19 04:57:30.158169"
+        },
+        {
+          "endpoint": "/transfer/destinations",
+          "status": "not_monitored",
+          "timestamp": "2023-05-19 04:57:30.158174"
+        },
+        {
+          "endpoint": "/credit-card/",
+          "status": "not_monitored",
+          "timestamp": "2023-05-19 04:57:30.158178"
+        }
+      ],
+      "prod": [
+        {
+          "endpoint": "/login/",
+          "status": "not_monitored",
+          "timestamp": "2023-05-19 04:57:30.158097"
+        },
+        {
+          "endpoint": "/logout/",
+          "status": "not_monitored",
+          "timestamp": "2023-05-19 04:57:30.158123"
+        },
+        {
+          "endpoint": "/account/{account_number}/movement/",
+          "status": "not_monitored",
+          "timestamp": "2023-05-19 04:57:30.158129"
+        },
+        {
+          "endpoint": "/account/",
+          "status": "not_monitored",
+          "timestamp": "2023-05-19 04:57:30.158134"
+        },
+        {
+          "endpoint": "/transfer/preprocess",
+          "status": "not_monitored",
+          "timestamp": "2023-05-19 04:57:30.158138"
+        },
+        {
+          "endpoint": "/transfer/destinations",
+          "status": "not_monitored",
+          "timestamp": "2023-05-19 04:57:30.158142"
+        },
+        {
+          "endpoint": "/credit-card/",
+          "status": "not_monitored",
+          "timestamp": "2023-05-19 04:57:30.158147"
+        }
+      ]
+    },
+    "account_type": [
+      {
+        "name": "pers",
+        "label_es": "Cuenta Personal",
+        "label_en": "Personal Account"
+      }
+    ],
+    "logo": "https://providers.prometeoapi.com/logos/bancolombia_pers_co.png",
+    "bank": {
+      "code": "bancolombia",
+      "name": "Bancolombia",
+      "logo": "https://providers.prometeoapi.com/logos/bancolombia.png"
+    },
+    "methods": {
+      "accounts": true,
+      "credit_cards": false,
+      "accounts_movements": true,
+      "credit_cards_movements": false,
+      "personal_info": false,
+      "transfers": true,
+      "enrollments": true
+    }
+  }
+}

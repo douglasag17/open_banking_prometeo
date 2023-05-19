@@ -1,0 +1,14 @@
+{
+    "status": "success",
+    "credit_cards": [
+      {
+        "id": "12345",
+        "name": "Test Credit Card",
+        "number": "************1791",
+        "close_date": "03/05/2023",
+        "due_date": "14/05/2023",
+        "balance_local": 12,
+        "balance_dollar": 12
+      }
+    ]
+  }

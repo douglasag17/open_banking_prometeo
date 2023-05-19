@@ -1,0 +1,4991 @@
+{
+    "status": "success",
+    "movements": [
+      {
+        "id": "908807be0fc4381958528354d5b5ed8d",
+        "reference": "ref 0",
+        "date": "01/05/2023",
+        "detail": "QUANTFURY*06DB876F678F41A8A45F",
+        "debit": 1599.37,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "3689c3d46207590ba579b9edbfa9ff7f",
+        "reference": "ref 0",
+        "date": "01/05/2023",
+        "detail": "QUANTFURY*148153A6B5C54FC0AC61",
+        "debit": 1599.37,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "2eed965d56549165918729bb8a279878",
+        "reference": "ref 0",
+        "date": "01/05/2023",
+        "detail": "QUANTFURY*BC0FFCC72F514811AF1B",
+        "debit": 1599.37,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f9fdfe9363cb60adc61483cbe902a19f",
+        "reference": "ref 1",
+        "date": "01/05/2023",
+        "detail": "CASA SUIZA",
+        "debit": 6696.38,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b4ff1538a2304c59b136eba0d69a9b87",
+        "reference": "ref 2",
+        "date": "01/05/2023",
+        "detail": "SEXTO SENTIDO",
+        "debit": 7894.3,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "95691e33a84167be04e434a6fcaa8a18",
+        "reference": "ref 3",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....378054",
+        "debit": 13579.11,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4ce704e343a0da3523d4f582c7ceab63",
+        "reference": "ref 4",
+        "date": "01/05/2023",
+        "detail": "CRED.DIRECTOAGUI DIC-10",
+        "debit": "",
+        "credit": 16385.42,
+        "extra_data": null
+      },
+      {
+        "id": "70bbf17e7f6788d5d818782c36564166",
+        "reference": "ref 5",
+        "date": "01/05/2023",
+        "detail": "FARMACIA REX",
+        "debit": 10112.12,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "aa43cac59eb6fc86bc0d058338526371",
+        "reference": "ref 6",
+        "date": "01/05/2023",
+        "detail": "CR. PAGO SUELDOS 20170508_3087600 P.R. LIMITADA",
+        "debit": "",
+        "credit": 10072.42,
+        "extra_data": null
+      },
+      {
+        "id": "a43f08650057bd482927bec7b574511b",
+        "reference": "ref 7",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....376717",
+        "debit": 13627.95,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "5e229e5686b4bba2c435a9919c5daa16",
+        "reference": "ref 8",
+        "date": "01/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 961562TRX:345013 SUC:71 DISP:2 61/6136737 TARJ:XX8252",
+        "debit": 4065.03,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "6461c9b89d67f2d275849f083ccc26c3",
+        "reference": "ref 9",
+        "date": "01/05/2023",
+        "detail": "SODIMAC GIANNAT CUOTA 08/10",
+        "debit": 8550.88,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "733e09468419327af8299bf8b73d9727",
+        "reference": "ref 10",
+        "date": "01/05/2023",
+        "detail": "OTTENCOFFEE.CO.ID*74D305B4F6B24BACBA82",
+        "debit": 13110.55,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f6cfccd39dcdd2482859d9283a8f7960",
+        "reference": "ref 11",
+        "date": "01/05/2023",
+        "detail": "UBER UY MAY31 5EG66 HELP.",
+        "debit": 4733.62,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "384c97512bd1c8d61a0dd108cdf5cde3",
+        "reference": "ref 12",
+        "date": "01/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 971689TRX:1018620 SUC:27 DISP:29 4/5100066841 TARJ:XX0538",
+        "debit": 10525,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "3a9ac03a59d53f966de34376c10e7637",
+        "reference": "ref 13",
+        "date": "01/05/2023",
+        "detail": "REDIVA 19210ABITAB054392",
+        "debit": "",
+        "credit": 10828.43,
+        "extra_data": null
+      },
+      {
+        "id": "6d7c01bd3c529ae5b4cd0680e587bdaa",
+        "reference": "ref 14",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....534955",
+        "debit": 8523.13,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "5b4c5403ceb13f588252dbb7b50f30ac",
+        "reference": "ref 15",
+        "date": "01/05/2023",
+        "detail": "INTEGRACION AFAP - PROVEEDORES",
+        "debit": "",
+        "credit": 7889.46,
+        "extra_data": null
+      },
+      {
+        "id": "7dd62f80db6b512b4e64be4074cc12a5",
+        "reference": "ref 16",
+        "date": "01/05/2023",
+        "detail": "UBER TRIP GT3XX HELP",
+        "debit": 14365.15,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "6087fd39c1385eafef0f45ce4d9c6f01",
+        "reference": "ref 17",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....401353",
+        "debit": 5970.94,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c9761e63a5447939d6a821dd2a35f3bb",
+        "reference": "ref 18",
+        "date": "01/05/2023",
+        "detail": "COBRO CUOTA PRESTAMO AMORTIZABLE 650044127584 CUO: 007",
+        "debit": 4037.25,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "815d74e19980f34343119b4342cb9301",
+        "reference": "ref 19",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....112047",
+        "debit": 5225.46,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8297bd77251aeffdd5f7c88fcc9427a7",
+        "reference": "ref 20",
+        "date": "01/05/2023",
+        "detail": "SUPERMERCADO LOS 2 SOLFARO JOS",
+        "debit": 7285.14,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c36eab12c1337064a0a902a86d2615e8",
+        "reference": "ref 21",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....867463",
+        "debit": 2970.97,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "2d162438b499e70ecb365fff104021ef",
+        "reference": "ref 22",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....808124",
+        "debit": 9446.41,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c72a391febe98601c60b5df93f264273",
+        "reference": "ref 23",
+        "date": "01/05/2023",
+        "detail": "CRE. CAMBIOSOP....780885",
+        "debit": "",
+        "credit": 19906.14,
+        "extra_data": null
+      },
+      {
+        "id": "1dd7d569cd2cc4aef73c9309c7c18db5",
+        "reference": "ref 24",
+        "date": "01/05/2023",
+        "detail": "UBER TRIP L3BEA HELP",
+        "debit": 7966.21,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "df348b445647b31fa60f8628883fb51f",
+        "reference": "ref 25",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....627428",
+        "debit": 2002.82,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4f5f0ed64d2867539922397816bcbe0c",
+        "reference": "ref 26",
+        "date": "01/05/2023",
+        "detail": "COBRO CUOTA PRESTAMO AMORTIZABLE 650040631539 CUO: 017",
+        "debit": 4876.79,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "ae311ec47c29fcd14e508e6db7bd6ba7",
+        "reference": "ref 27",
+        "date": "01/05/2023",
+        "detail": "UBER UY MAY06 XOUFT",
+        "debit": 13752.74,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "2b2c5c5fa322c655bf46fd4355aeaef1",
+        "reference": "ref 28",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....760089",
+        "debit": 4128.63,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "902a9841d4134e140e37cef93bd19709",
+        "reference": "ref 29",
+        "date": "01/05/2023",
+        "detail": "CRED.DIRECTOSUELDO 46",
+        "debit": "",
+        "credit": 15901.67,
+        "extra_data": null
+      },
+      {
+        "id": "391a2c37f2ab03ba46c5cb52ab5ba156",
+        "reference": "ref 30",
+        "date": "01/05/2023",
+        "detail": "COBRO CUOTA PRESTAMO AMORTIZABLE 650042443225 CUO: 011",
+        "debit": 3695.07,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "64de0c7e6a0748e86847e8ff02d82a57",
+        "reference": "ref 31",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....347897",
+        "debit": 9646.63,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e7783dd486049efb135cb77bf13587ae",
+        "reference": "ref 32",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....211023",
+        "debit": 12310.24,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "5b0ce9e7aed1d2ba5bd8d48165ad7421",
+        "reference": "ref 33",
+        "date": "01/05/2023",
+        "detail": "DEVOLUCION DE COMISION CA. DEV. COMIS.COMPRA UBER 04/04",
+        "debit": "",
+        "credit": 10331.05,
+        "extra_data": null
+      },
+      {
+        "id": "a0c21f0f7da331e50a9d4e5b59876ce8",
+        "reference": "ref 34",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....406474",
+        "debit": 8778.28,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b9860421b1c21cdc2eb4dbf7f7ba8bde",
+        "reference": "ref 35",
+        "date": "01/05/2023",
+        "detail": "TRASPASO DE 7218800ILINK",
+        "debit": "",
+        "credit": 9869.06,
+        "extra_data": null
+      },
+      {
+        "id": "b3c7a36892b5aeec9b6c0a531e0f431a",
+        "reference": "ref 36",
+        "date": "01/05/2023",
+        "detail": "COBRO CUOTA PRESTAMO AMORTIZABLE 500040009356 CUO: 077",
+        "debit": 12651.8,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "886b69169d1f324bc71bda08ce14900e",
+        "reference": "ref 37",
+        "date": "01/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 003204TRX:5101390 SUC:71 DISP:2 16/8999805 TARJ:XX9184",
+        "debit": 3438.42,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "3e978c16b2e125249710025b488a766c",
+        "reference": "ref 38",
+        "date": "01/05/2023",
+        "detail": "DEPOSITO POR BUZONERA 26072018-S60BUZ511 TX:310923 16/28398 TRJ:*4973ECF33DCB4E609E8C",
+        "debit": "",
+        "credit": 13153.03,
+        "extra_data": null
+      },
+      {
+        "id": "202593bccd7d3501a4e93f5feae491b9",
+        "reference": "ref 39",
+        "date": "01/05/2023",
+        "detail": "CRISP",
+        "debit": 6462.77,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b45f1f6c0fffe08d85052df97f081471",
+        "reference": "ref 40",
+        "date": "01/05/2023",
+        "detail": "ESSO PELTIR SA",
+        "debit": 2840.93,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "345062447985ec98717c9e71cb300aa4",
+        "reference": "ref 41",
+        "date": "01/05/2023",
+        "detail": "CR. PAGO SUELDOS 20161207_0663500 P.R. LIMITADA",
+        "debit": "",
+        "credit": 16962.37,
+        "extra_data": null
+      },
+      {
+        "id": "d5d4275b362e690b4971642b5ea57b9a",
+        "reference": "ref 42",
+        "date": "01/05/2023",
+        "detail": "TRASPASO DE 4201899ILINK",
+        "debit": "",
+        "credit": 5381.98,
+        "extra_data": null
+      },
+      {
+        "id": "1f7fa31ad7f66386f613aa68dee39701",
+        "reference": "ref 43",
+        "date": "01/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 965447TRX:994662 SUC:27 DISP:29 4/78603 TARJ:XX0538",
+        "debit": 13795.76,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "0ba07d8b10b47898c70ddc0f6f579db1",
+        "reference": "ref 176",
+        "date": "01/05/2023",
+        "detail": "NETELLER*B288B6D3CF304796942B",
+        "debit": 11958.16,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "6e2b426e7fa1f82e468941d7ba166331",
+        "reference": "ref 220",
+        "date": "01/05/2023",
+        "detail": "NETELLER*DC4CBA9F6DBF41C3B8BA",
+        "debit": 11958.16,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b55f9d1f110a86d72b4ef5ae7083eb22",
+        "reference": "ref 44",
+        "date": "01/05/2023",
+        "detail": "NETELLER*A32C336F5134406EA93F",
+        "debit": 11958.16,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e59734fab13334782e101a02fa08ff6f",
+        "reference": "ref 45",
+        "date": "01/05/2023",
+        "detail": "ESPACIO WOK",
+        "debit": 7592.08,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f6da80edbf86c80cf3db47d8fa2e9fbe",
+        "reference": "ref 46",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....521524",
+        "debit": 4732.72,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9b2fef76eecf755dc88458d6e9f85a3a",
+        "reference": "ref 47",
+        "date": "01/05/2023",
+        "detail": "FLORIDA SURF COMPANY",
+        "debit": 6001.03,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "2c0cc8eedbfd77f7d3e98ad63b76dbbb",
+        "reference": "ref 48",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....129619",
+        "debit": 3780.5,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4f1e6af8682a2e5e72eaa5ff61394cdf",
+        "reference": "ref 49",
+        "date": "01/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 008284TRX:5134035 SUC:71 DISP:1 4/376728 TARJ:XX0278",
+        "debit": 2326.03,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "628982c84b6c196229d2ec9b6cc29eb9",
+        "reference": "ref 50",
+        "date": "01/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 004621TRX:5035635 SUC:71 DISP:1 4/376728 TARJ:XX0278",
+        "debit": 8773.94,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "33e1c3feba17adbb3e2a226db2ccf8fa",
+        "reference": "ref 51",
+        "date": "01/05/2023",
+        "detail": "AUCHAN.RO*08DBE87AE8B345088C8F",
+        "debit": 12132.91,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c0eefdfcbc30ff51565b6f05f44d2a70",
+        "reference": "ref 52",
+        "date": "01/05/2023",
+        "detail": "MSFT * E050058OOY",
+        "debit": 12774.14,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "3b1fea08fcb1f588f3639e37912e0571",
+        "reference": "ref 53",
+        "date": "01/05/2023",
+        "detail": "DEB. CAMBIOSST....415999",
+        "debit": 9081.58,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "80299072902155f4aa5305ed127d51e7",
+        "reference": "ref 54",
+        "date": "01/05/2023",
+        "detail": "CRE. CAMBIOSOP....652094",
+        "debit": "",
+        "credit": 15529.37,
+        "extra_data": null
+      },
+      {
+        "id": "0074ec9012fa5dbf43ebc8e6f618e371",
+        "reference": "ref 0",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....239674",
+        "debit": 8190.69,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "fbb739188ac857cb76c7b23d839ff0af",
+        "reference": "ref 1",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....533363",
+        "debit": 8834.01,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8b155c60904fc1c66a32fb92b6a91aa8",
+        "reference": "ref 2",
+        "date": "02/05/2023",
+        "detail": "UBER UY MAY21 J7CEA",
+        "debit": 11367.67,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "416fc24cc84d4a12c58b246befca6492",
+        "reference": "ref 3",
+        "date": "02/05/2023",
+        "detail": "CR. PAGO SUELDOS 20180131_5134767 UNIVERSIDAD CATOLICA DEL URUGU",
+        "debit": "",
+        "credit": 2329.62,
+        "extra_data": null
+      },
+      {
+        "id": "43be0308e7e1461678d649d1a389307d",
+        "reference": "ref 4",
+        "date": "02/05/2023",
+        "detail": "DEVOLUCION IVA CUOTA: 022",
+        "debit": "",
+        "credit": 16892.14,
+        "extra_data": null
+      },
+      {
+        "id": "82d00fc5a64cca532abb0c3a6d07b138",
+        "reference": "ref 5",
+        "date": "02/05/2023",
+        "detail": "UBER UY AUG29 3B2QD",
+        "debit": 367.13,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4e86ccb6deaf40e5c36eef6ba33ba9bd",
+        "reference": "ref 6",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....727541",
+        "debit": 3425.4,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a85fd18cef964ec74f8ef8e269eb81ce",
+        "reference": "ref 7",
+        "date": "02/05/2023",
+        "detail": "CR. PAGO SUELDOS 20180605_0576300 FACULTAD DE CIENCIAS ECONOMICAS Y",
+        "debit": "",
+        "credit": 19650.67,
+        "extra_data": null
+      },
+      {
+        "id": "c7bd2a8456cf0e537c430101a7cac36a",
+        "reference": "ref 8",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSCOMI..083772",
+        "debit": 12368.47,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "11bcdffb339da2bebf4296b8687ddfa2",
+        "reference": "ref 9",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....130268",
+        "debit": 1357.94,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "cf30db269dfd13ccbaa5424c5ed8ec7d",
+        "reference": "ref 10",
+        "date": "02/05/2023",
+        "detail": "ASOC.ESPA?OLA 1A. DE SOC.",
+        "debit": 9056.6,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f87c5f09dc286b0ce92302cfd6008e31",
+        "reference": "ref 11",
+        "date": "02/05/2023",
+        "detail": "ESRT OBSERVATORY TRS",
+        "debit": 3375.43,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "69698b2ed9d299d382f672922f58a6c8",
+        "reference": "ref 12",
+        "date": "02/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 966864TRX:539479 SUC:27 DISP:29 4/78603 TARJ:XX0538",
+        "debit": 11418.84,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "3ce3c673ab0e895cf355e10a65b1c868",
+        "reference": "ref 13",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....028844",
+        "debit": 7380.65,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "606a506e30e2ee29248a22651daf22f6",
+        "reference": "ref 14",
+        "date": "02/05/2023",
+        "detail": "ADIDAS.CO.ZA*9102648D246F4C8D9BF2",
+        "debit": 4604.46,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a0783a611a0e5fb4d6d61d852415f707",
+        "reference": "ref 15",
+        "date": "02/05/2023",
+        "detail": "ESPACIO WOK",
+        "debit": 13021.82,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "84e86daaec0f169dc0f7668eb3ce1e9a",
+        "reference": "ref 16",
+        "date": "02/05/2023",
+        "detail": "REDIVA 19210LAS TORRES",
+        "debit": "",
+        "credit": 14537.43,
+        "extra_data": null
+      },
+      {
+        "id": "ae0ee05b27fb9c93a0b0dd84631a038d",
+        "reference": "ref 17",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....825770",
+        "debit": 7135.61,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "88a9c67b5ed5db0d174188cb37d910ea",
+        "reference": "ref 18",
+        "date": "02/05/2023",
+        "detail": "GOOGLE*SVCSAPPS QUALIA",
+        "debit": 12512.76,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "db0e30c4373627094d8224c1807bf62f",
+        "reference": "ref 19",
+        "date": "02/05/2023",
+        "detail": "UBER TRIP GWMSI HELP",
+        "debit": 6855.9,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "3608d4d04ee9f4eb720f96d527354fbf",
+        "reference": "ref 20",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSCOMI..756784",
+        "debit": 11387.53,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f5346f3032a2b59b6f08edf63c43e699",
+        "reference": "ref 21",
+        "date": "02/05/2023",
+        "detail": "UBER PELBJ HELP.UBER",
+        "debit": 10862.25,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "322183d49a7a9919dcac6564f3133e6b",
+        "reference": "ref 22",
+        "date": "02/05/2023",
+        "detail": "UBER UY MAR28 2BZOW",
+        "debit": 1014.03,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "880dbc353c8011022391a9fe0ea58b0e",
+        "reference": "ref 23",
+        "date": "02/05/2023",
+        "detail": "DE ARCOS DECO CUOTA 2/2",
+        "debit": 12070.71,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c266a855fd796967d2d3e118e66ce3a0",
+        "reference": "ref 24",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSCOMI..767297",
+        "debit": 12311.91,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "12c03134362ae6371dcdf8d306fccdd5",
+        "reference": "ref 25",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....103317",
+        "debit": 10743.15,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8cdbda65848e3047c883fa83dfffad28",
+        "reference": "ref 26",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....956904",
+        "debit": 1032.05,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a1f6f7bf6ba8b29ba387140559ca5dab",
+        "reference": "ref 27",
+        "date": "02/05/2023",
+        "detail": "CR. PAGO SUELDOS 20170905_0852800 TATA SOCIEDAD ANONIMA",
+        "debit": "",
+        "credit": 14360.27,
+        "extra_data": null
+      },
+      {
+        "id": "bad0e7437fe9db31d69f9b36b0f21023",
+        "reference": "ref 28",
+        "date": "02/05/2023",
+        "detail": "SODIMAC GIANNATTASIO CUOTA 5/6",
+        "debit": 8789.44,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "3a54c2856f7ad04afc6a966e3eb352d3",
+        "reference": "ref 29",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....354447",
+        "debit": 14671.94,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "6037a9a30394b931aaaebb5474206730",
+        "reference": "ref 30",
+        "date": "02/05/2023",
+        "detail": "RETIRO EFECTIVO CAJERO AUTOMATICO 22:41 28/07/09 5891073701001434242-000 STDR AV. 18 DE JULIO 1228",
+        "debit": 5362.84,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c279b2d0ff9acde1722909853ae5fb63",
+        "reference": "ref 31",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....052607",
+        "debit": 7428.04,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d9690ff03898454de0c4b0220f5d1be9",
+        "reference": "ref 32",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....907451",
+        "debit": 5619.85,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "55211a6e72e3e04d7cc53fcd88d7e4a8",
+        "reference": "ref 33",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....032037",
+        "debit": 1163.07,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c51085baf95e77ea9c02388f8151c963",
+        "reference": "ref 34",
+        "date": "02/05/2023",
+        "detail": "PAGO DE TC",
+        "debit": 5955.92,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a51b6f67d2c77bb1d5a53ed3b4920a27",
+        "reference": "ref 35",
+        "date": "02/05/2023",
+        "detail": "SINFONIA",
+        "debit": 11810.25,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9ad698b0b7c82b17621b5fc4c61e1c39",
+        "reference": "ref 36",
+        "date": "02/05/2023",
+        "detail": "COBRO CUOTA PRESTAMO AMORTIZABLE 500040009356 CUO: 051",
+        "debit": 7400.58,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a15997206f4ecdb065dc2a53a804decf",
+        "reference": "ref 37",
+        "date": "02/05/2023",
+        "detail": "UBER TRIP AN2P6 HELP",
+        "debit": 9086.32,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "70bfe03b3891d19031b22b575e6dba27",
+        "reference": "ref 38",
+        "date": "02/05/2023",
+        "detail": "MTA MVM*J035-111 STQPS",
+        "debit": 2318.59,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f29b534ac0a9794f11059e2936b92bb1",
+        "reference": "ref 39",
+        "date": "02/05/2023",
+        "detail": "UBER TRIP VIDMA HELP",
+        "debit": 14702.55,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7849459f9fa98e570cb3ed8881c7d0c2",
+        "reference": "ref 40",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....012696",
+        "debit": 440.53,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "cb72e7ca69f3d5db213ccc30d5bd8038",
+        "reference": "ref 41",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....463564",
+        "debit": 14079.48,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "502efb7da2107f95ec9f6424faa672ab",
+        "reference": "ref 42",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....350434",
+        "debit": 106,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "cb8e74100a014fe2f7567e947fa726bd",
+        "reference": "ref 43",
+        "date": "02/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 004975TRX:5046910 SUC:27 DISP:29 27/72785800 TARJ:XX9740",
+        "debit": 8122.81,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d3f0fcbb6d39e0f9bf7a844105006ab8",
+        "reference": "ref 44",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....578986",
+        "debit": 6144.26,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9563bc397c5680f247376f90415b82e8",
+        "reference": "ref 45",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....782665",
+        "debit": 14434.59,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "266e9bb49e52b2e86be99fc0f621ac9d",
+        "reference": "ref 46",
+        "date": "02/05/2023",
+        "detail": "REV.IVA19210FRESCOMAR",
+        "debit": 4289.71,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "69e4fdb044bd3b7af1041cce47c778c3",
+        "reference": "ref 47",
+        "date": "02/05/2023",
+        "detail": "ESSO ACRONAR",
+        "debit": 14486.45,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "32476af61ec76e48dfeb959350a9f300",
+        "reference": "ref 48",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....004551",
+        "debit": 7724.9,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "3fb07d4e4e24adce905938c1b1d8063a",
+        "reference": "ref 49",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....689427",
+        "debit": 7686.01,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d877886a2ad39bca887db088ba9147f5",
+        "reference": "ref 50",
+        "date": "02/05/2023",
+        "detail": "LA PULPERIA",
+        "debit": 12737.2,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "505de20b651bc69fca91952f9a679b7d",
+        "reference": "ref 51",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....958025",
+        "debit": 5197.97,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b838594f0ab320558d145b6f36c1c8b3",
+        "reference": "ref 52",
+        "date": "02/05/2023",
+        "detail": "VENUE DRIVER EVENTS TKTS",
+        "debit": 4283.48,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "24355d57d10b529358bc36005b2a12fb",
+        "reference": "ref 53",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSCOMI..861098",
+        "debit": 4873.96,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "665b3c8d5668f58622be7890ec69c5f0",
+        "reference": "ref 54",
+        "date": "02/05/2023",
+        "detail": "DEB. CAMBIOSST....017668",
+        "debit": 10375.95,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7dd3f907ce0b6877246d8cb705646440",
+        "reference": "ref 0",
+        "date": "03/05/2023",
+        "detail": "REDIVA 19210LIMIT7576230",
+        "debit": "",
+        "credit": 8262.59,
+        "extra_data": null
+      },
+      {
+        "id": "2f97948707fbc5d6a87213089fa945ab",
+        "reference": "ref 1",
+        "date": "03/05/2023",
+        "detail": "CRE. CAMBIOSOP....672365",
+        "debit": "",
+        "credit": 15588.57,
+        "extra_data": null
+      },
+      {
+        "id": "3f0f73476aaf8c6b4bedfbc9f8e4d04e",
+        "reference": "ref 2",
+        "date": "03/05/2023",
+        "detail": "UBER TRIP WHZLM HELP",
+        "debit": 7998.77,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "095174f7bb32ec643a2fd196692ce506",
+        "reference": "ref 3",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....307064",
+        "debit": 13104.75,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "54abba59c2b511a6a87a53136fe7ed39",
+        "reference": "ref 4",
+        "date": "03/05/2023",
+        "detail": "PAYPAL *COLECTATE",
+        "debit": 11773.24,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e5da53cbef4429e269f7780f5f56c83f",
+        "reference": "ref 5",
+        "date": "03/05/2023",
+        "detail": "CC.EE. GENERACI CUOTA 01/06",
+        "debit": 7794.08,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8e9aedfdb6134f279ef515090063af6d",
+        "reference": "ref 6",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....958025",
+        "debit": 8329.38,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "48fb6215127f95f8d635a7df39a4ad6d",
+        "reference": "ref 7",
+        "date": "03/05/2023",
+        "detail": "BNB FLORES",
+        "debit": 13005.18,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "337cddc3dc2ffa8c8e1d7537ea3f2606",
+        "reference": "ref 8",
+        "date": "03/05/2023",
+        "detail": "EL BERRETIN",
+        "debit": 4839.49,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "42e35c87719cf3018898b970f71ef4c7",
+        "reference": "ref 9",
+        "date": "03/05/2023",
+        "detail": "REDIVA 19210ANTEL101D424",
+        "debit": "",
+        "credit": 19603.57,
+        "extra_data": null
+      },
+      {
+        "id": "73ae9e3b41ef45a012a6cc4fcaee8312",
+        "reference": "ref 10",
+        "date": "03/05/2023",
+        "detail": "UBER UY JUL07 EDM5X",
+        "debit": 11738.53,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "143af32a8aa489ab128981d7b06a6c93",
+        "reference": "ref 11",
+        "date": "03/05/2023",
+        "detail": "BOCACHICA",
+        "debit": 10738.15,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4a76914ce3904f15695a23bb5fb1043b",
+        "reference": "ref 12",
+        "date": "03/05/2023",
+        "detail": "REDIVA 19210DEI VILA",
+        "debit": "",
+        "credit": 6930.82,
+        "extra_data": null
+      },
+      {
+        "id": "2dea99e7686ce50df734a9f5f30dfb8f",
+        "reference": "ref 13",
+        "date": "03/05/2023",
+        "detail": "COBRO CUOTA PRESTAMO AMORTIZABLE 650044127584 CUO: 006",
+        "debit": 13164.67,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "1a1172f80f5da6e1cbabcf5d7199a9d4",
+        "reference": "ref 14",
+        "date": "03/05/2023",
+        "detail": "DEPOSITO POR BUZONERA 00000205-S71BUZ521 TX:268206 61/1201095391 TRJ:**0000-7-406912",
+        "debit": "",
+        "credit": 2927.18,
+        "extra_data": null
+      },
+      {
+        "id": "a6f3a14bd085fcc3cc772379540fd88e",
+        "reference": "ref 15",
+        "date": "03/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 001755TRX:5050513 SUC:71 DISP:2 4/376728 TARJ:XX0278",
+        "debit": 14300.55,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d159823bce1046f5a68938a530a15a1e",
+        "reference": "ref 16",
+        "date": "03/05/2023",
+        "detail": "RETIRO EFECTIVO DISPENSADOR 366319TRX:00729478 SUC:19 CTA:16/28398",
+        "debit": 5650.37,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "cc1a328c1dd1043b25824447a04eace7",
+        "reference": "ref 17",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....850186",
+        "debit": 10393.29,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e11b3d072050d654e6ee2d653ade7087",
+        "reference": "ref 18",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....526086",
+        "debit": 2567.33,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "be2d8d674c2fdaca6d1f04c7ea05e80a",
+        "reference": "ref 19",
+        "date": "03/05/2023",
+        "detail": "CRE. CAMBIOSOP....538297",
+        "debit": "",
+        "credit": 15160.37,
+        "extra_data": null
+      },
+      {
+        "id": "c599ddef10a977593c034e469db7ecef",
+        "reference": "ref 20",
+        "date": "03/05/2023",
+        "detail": "BAR LUZ",
+        "debit": 5671.58,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "31cf2ee453f96ef10a6bbade6c866659",
+        "reference": "ref 21",
+        "date": "03/05/2023",
+        "detail": "PAYPAL *CHINATERALI",
+        "debit": 6001.16,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "de319ec616c40b46fadf99a16275fddd",
+        "reference": "ref 22",
+        "date": "03/05/2023",
+        "detail": "UBER UY OCT30 ZEXXD",
+        "debit": 13241.07,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a2b8ddcfe7f30a985e5243d26f8b4983",
+        "reference": "ref 23",
+        "date": "03/05/2023",
+        "detail": "MARKET 9 DE JULIO",
+        "debit": 11872.53,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "cc75e706e970907465da04b607bac4e7",
+        "reference": "ref 24",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....882557",
+        "debit": 1378.49,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c0b04910a7b397ba7378dc76fd3e29b3",
+        "reference": "ref 25",
+        "date": "03/05/2023",
+        "detail": "LIM*TEMP HOLD",
+        "debit": 14726.73,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b80a524e829dc41f6b3e726e07f0a053",
+        "reference": "ref 26",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....533258",
+        "debit": 8134.37,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f0622afaf1bc62a821cdcbba14d7b5fa",
+        "reference": "ref 27",
+        "date": "03/05/2023",
+        "detail": "CONS ODONTORADIOLOGIA MONTEVID",
+        "debit": 5914.9,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7c1a7f3590f476c81a2f38259956d27d",
+        "reference": "ref 28",
+        "date": "03/05/2023",
+        "detail": "COBRO CUOTA PRESTAMO AMORTIZABLE 650044375618 CUO: 021",
+        "debit": 13753.13,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "1a3737560a51da5a8fb421b784b1d0f3",
+        "reference": "ref 29",
+        "date": "03/05/2023",
+        "detail": "TRASPASO DE 8017555ILINK",
+        "debit": "",
+        "credit": 15077.47,
+        "extra_data": null
+      },
+      {
+        "id": "825c719b03526d9ef40fbaf66fa93f3b",
+        "reference": "ref 30",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....504943",
+        "debit": 14038.15,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7521b8c4e8b674cd2d04bd7d01a4fc81",
+        "reference": "ref 31",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....641541",
+        "debit": 11899.96,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8d4e0ee4be27a92c0f221014e060fed5",
+        "reference": "ref 32",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....997215",
+        "debit": 14238.5,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e2635868471108f80cca9e13b400a9b9",
+        "reference": "ref 33",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....938911",
+        "debit": 13473.42,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d91f13276bfe98a1148328424b823f38",
+        "reference": "ref 34",
+        "date": "03/05/2023",
+        "detail": "UBER B2PQ4 HELP.UBER",
+        "debit": 13988.59,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "fa72a7f1ffd6f94afc523e2e810f77c5",
+        "reference": "ref 35",
+        "date": "03/05/2023",
+        "detail": "CRE. CAMBIOSOP....172208",
+        "debit": "",
+        "credit": 7784.8,
+        "extra_data": null
+      },
+      {
+        "id": "c51ebf723b3273be63300904de54bffa",
+        "reference": "ref 36",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSCOMI..174318",
+        "debit": 504.08,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "80a28e01ed0c2cbf96d5fb724460fcb3",
+        "reference": "ref 37",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSCOMI..405144",
+        "debit": 1702.69,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "5b78aec6a35b24147ee1d2923336b14e",
+        "reference": "ref 38",
+        "date": "03/05/2023",
+        "detail": "UBER UY FEB07 7P2ZN",
+        "debit": 13670.67,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "33bb4baf553af8d5f2f44a514514c94e",
+        "reference": "ref 39",
+        "date": "03/05/2023",
+        "detail": "ENVIA MI COMPRA",
+        "debit": 9820.15,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8fe7f180c5e5a7ecd372a08b79821a74",
+        "reference": "ref 40",
+        "date": "03/05/2023",
+        "detail": "UBER UY OCT23 RDTYM",
+        "debit": 8419.02,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "14fd623e289b823431e39a392e6d8d45",
+        "reference": "ref 41",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....488311",
+        "debit": 5115.49,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "fd7f427eb8f44e6fe3802b5b7671aa0e",
+        "reference": "ref 42",
+        "date": "03/05/2023",
+        "detail": "REDIVA 19210MISUSHI",
+        "debit": "",
+        "credit": 17553.44,
+        "extra_data": null
+      },
+      {
+        "id": "3b31556a384305a16bcbc9999fd23b81",
+        "reference": "ref 43",
+        "date": "03/05/2023",
+        "detail": "EMPORIO DE LOS FILTROS",
+        "debit": 6923.94,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b06f0c1fc9c156bf61213f012183f3bd",
+        "reference": "ref 44",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....238894",
+        "debit": 6537.96,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c51873736df1555466bdd40edc42e207",
+        "reference": "ref 45",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....485316",
+        "debit": 9985.96,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8504b00690b08edf7e9e274a5059e3c9",
+        "reference": "ref 46",
+        "date": "03/05/2023",
+        "detail": "UBER TRIP 2GQ3W HELP.UHELP.UBE",
+        "debit": 10230.19,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "46ec1dc7b34e54cc017ee4cd2fca24b5",
+        "reference": "ref 47",
+        "date": "03/05/2023",
+        "detail": "DEB.CONTRATO4678785 010",
+        "debit": 13389.96,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7729eaff2fb1651e9f81cb870b98c469",
+        "reference": "ref 48",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....132881",
+        "debit": 7128.11,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d004dd2fa8c8e0fa6e4871f9d034b76e",
+        "reference": "ref 49",
+        "date": "03/05/2023",
+        "detail": "UBER UY JUL23 IGRV4",
+        "debit": 10320.09,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "37fb7f14ea38dac0bbdc8db6f78689ec",
+        "reference": "ref 50",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....239251",
+        "debit": 4367.11,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d2fd29d893bac7da7cdbfcdc62569eef",
+        "reference": "ref 51",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....871467",
+        "debit": 7170.35,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "078f0b33c5428549c230ffa5ac7ed484",
+        "reference": "ref 52",
+        "date": "03/05/2023",
+        "detail": "DEB. CAMBIOSST....281111",
+        "debit": 13925.67,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "faaf2501713c8584dcba74508016ba93",
+        "reference": "ref 53",
+        "date": "03/05/2023",
+        "detail": "SMART",
+        "debit": 2906.99,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c7d6b45b66f6682e2e8192a35edcc643",
+        "reference": "ref 54",
+        "date": "03/05/2023",
+        "detail": "REDIVA 19210PCLARO57A4F8",
+        "debit": "",
+        "credit": 2249.21,
+        "extra_data": null
+      },
+      {
+        "id": "c3e3e13f91e3eba59fed646cacb4f78b",
+        "reference": "ref 0",
+        "date": "04/05/2023",
+        "detail": "RAMIREZ MARTINS COMERC",
+        "debit": 5924.31,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "23f43f5954c354976befedaa3c435623",
+        "reference": "ref 1",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSCOMI..050480",
+        "debit": 3799.55,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d0bacbed65578908e30e7d9c7da0cba0",
+        "reference": "ref 2",
+        "date": "04/05/2023",
+        "detail": "JD.ID*F59252CB356844C8A8C2",
+        "debit": 834.99,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8eea2fc1424caa5d7535f688f441b38a",
+        "reference": "ref 3",
+        "date": "04/05/2023",
+        "detail": "UBER UY JUL22 ORTJ4",
+        "debit": 8445.25,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e87c2ffea6ad0194601ffa7a894f178c",
+        "reference": "ref 4",
+        "date": "04/05/2023",
+        "detail": "TRASPASO DE 8771143",
+        "debit": "",
+        "credit": 19180.65,
+        "extra_data": null
+      },
+      {
+        "id": "b6e974b28383e13efdeabb022f940562",
+        "reference": "ref 5",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....514506",
+        "debit": 10799.69,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "2ef7bd50efdbc1ba9f8d6020a6aeba8c",
+        "reference": "ref 6",
+        "date": "04/05/2023",
+        "detail": "COBRO CUOTA PRESTAMO AMORTIZABLE 650044127584 CUO: 003",
+        "debit": 6764.23,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c5536e51a8984a790a8510efb0dd89a0",
+        "reference": "ref 7",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....104560",
+        "debit": 2726.65,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b8b30ddb2fabcd4b290df9090624219f",
+        "reference": "ref 8",
+        "date": "04/05/2023",
+        "detail": "UBER UY JAN12 LBKGC",
+        "debit": 11210.69,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "ae444af436f4abf8e86bab4eb0b2a021",
+        "reference": "ref 9",
+        "date": "04/05/2023",
+        "detail": "DB.TRANSF.MULTIPLE FIN CHQ BRO",
+        "debit": 5134.46,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "2f8963a933d9f7b7ffe95ccd559392c9",
+        "reference": "ref 10",
+        "date": "04/05/2023",
+        "detail": "UBER UY AUG14 CPRTW",
+        "debit": 8357.89,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "80a97efedf933bc0db23a484515640f6",
+        "reference": "ref 11",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....141777",
+        "debit": 2568.01,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8b46f422d9051c70b58a0dbb1bd40d94",
+        "reference": "ref 12",
+        "date": "04/05/2023",
+        "detail": "UBER UY APR14 AFQAN",
+        "debit": 8945.66,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "6fcf0ab36a1ef5ef2bb21b679e4a97f6",
+        "reference": "ref 13",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....179429",
+        "debit": 14979.23,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "948f1f7d2bb59c4f6cab43b36c7f1038",
+        "reference": "ref 14",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....400361",
+        "debit": 12121.52,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d7d9ce0480faa219e9b6f5ffd172f0ac",
+        "reference": "ref 15",
+        "date": "04/05/2023",
+        "detail": "DEPOSITO POR BUZONERA 90270217",
+        "debit": "",
+        "credit": 9601.36,
+        "extra_data": null
+      },
+      {
+        "id": "ca789f7595a8866ed9d47c08157287c4",
+        "reference": "ref 16",
+        "date": "04/05/2023",
+        "detail": "CRE. CAMBIOSOP....575257",
+        "debit": "",
+        "credit": 14839.87,
+        "extra_data": null
+      },
+      {
+        "id": "743e2720c2e06682ec0aa5a604b46c01",
+        "reference": "ref 17",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....727192",
+        "debit": 4517.05,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e549c5add0a018d6a0a8fdd0fca9fa9f",
+        "reference": "ref 18",
+        "date": "04/05/2023",
+        "detail": "SQ *BREAKFAST BUZZ",
+        "debit": 6006.07,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9c5af956a79f3c949ebe16ad41bcc521",
+        "reference": "ref 19",
+        "date": "04/05/2023",
+        "detail": "CRE. CAMBIOSOP....825277",
+        "debit": "",
+        "credit": 7549.91,
+        "extra_data": null
+      },
+      {
+        "id": "0e92fd16fa906558b62abce7aa6e5fac",
+        "reference": "ref 20",
+        "date": "04/05/2023",
+        "detail": "TOMATE",
+        "debit": 8847.43,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "1a600ed4aea40e1332b6c7908ce65d08",
+        "reference": "ref 21",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....849616",
+        "debit": 4171.46,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "bbfa245e4b6465ceef9200591ddd6934",
+        "reference": "ref 22",
+        "date": "04/05/2023",
+        "detail": "UBER TRIP PGF4I HELP",
+        "debit": 2650.59,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d51e469670c60ddcb12288bc3df339cf",
+        "reference": "ref 23",
+        "date": "04/05/2023",
+        "detail": "PAGO FACTURAANTEL 002800",
+        "debit": 1734.68,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c742a5f0fd305335f3b610626b74f815",
+        "reference": "ref 24",
+        "date": "04/05/2023",
+        "detail": "ANCAP EL FARO LTDA",
+        "debit": 2983.97,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "612b589f7fd250f5290b6b770d03cd1a",
+        "reference": "ref 25",
+        "date": "04/05/2023",
+        "detail": "TRASPASO DE EXT 13/03",
+        "debit": "",
+        "credit": 14073.83,
+        "extra_data": null
+      },
+      {
+        "id": "35390e1bd0fc89451ae35288f4ff69ca",
+        "reference": "ref 26",
+        "date": "04/05/2023",
+        "detail": "BARDIAUTO.RO*AA1C92E9A1AA4CBEAEE7",
+        "debit": 7565.47,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d57802829c35e6b71d13a875a10ebec9",
+        "reference": "ref 27",
+        "date": "04/05/2023",
+        "detail": "DEB.CONTRATO5614787 002",
+        "debit": 1048.44,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b82d3cefefd87c84b09dd4ad397dd07b",
+        "reference": "ref 28",
+        "date": "04/05/2023",
+        "detail": "REDIVA 19210PIZZERIA VEN",
+        "debit": "",
+        "credit": 6926.29,
+        "extra_data": null
+      },
+      {
+        "id": "785b2355f46b9c1e2ea652fc9bbfbbfb",
+        "reference": "ref 29",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....129092",
+        "debit": 4434.42,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "915153776b05037bf8033957ea7223cd",
+        "reference": "ref 30",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....690920",
+        "debit": 3300.87,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b27fceb3cf045b05904b515d1a749745",
+        "reference": "ref 31",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSCOMI..414050",
+        "debit": 9011.24,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8cebbacc3a4c9259ca3d0932c28ed93d",
+        "reference": "ref 32",
+        "date": "04/05/2023",
+        "detail": "MATUTE",
+        "debit": 120.96,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "971733943957fa310f149e9d0ba1a4f9",
+        "reference": "ref 33",
+        "date": "04/05/2023",
+        "detail": "UBER UY JUL01 HYLLW",
+        "debit": 1859.87,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "3427302db6b581596f0945c36243a0d8",
+        "reference": "ref 34",
+        "date": "04/05/2023",
+        "detail": "CRE. CAMBIOSOP....699235",
+        "debit": "",
+        "credit": 5814.53,
+        "extra_data": null
+      },
+      {
+        "id": "5be4a46b8287c6d757b0f728099e6b8f",
+        "reference": "ref 35",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....792686",
+        "debit": 7779.24,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f94f190cc972943a170a5287a4131226",
+        "reference": "ref 36",
+        "date": "04/05/2023",
+        "detail": "COUNTRY CLUB LIMA HO",
+        "debit": 1506.69,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9c062d77be34d8aef0b4caf7c640e8e5",
+        "reference": "ref 37",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSCOMI..761462",
+        "debit": 11707.31,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "fdbfb0ce0097989edf642c797ed38d94",
+        "reference": "ref 38",
+        "date": "04/05/2023",
+        "detail": "UBER TRIP 3AAES HELP",
+        "debit": 256.78,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e4eb901e738cedcc8f8e074b9716dd59",
+        "reference": "ref 39",
+        "date": "04/05/2023",
+        "detail": "OPTICA PORTUGUE CUOTA 01/02",
+        "debit": 4950.15,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "168c867146688cbc9b6ae43a362c9d79",
+        "reference": "ref 40",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....480249",
+        "debit": 2871.6,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "969169ae7ee9d4a5099f0cdeeff8a0e3",
+        "reference": "ref 41",
+        "date": "04/05/2023",
+        "detail": "CRE. CAMBIOSOP....218154",
+        "debit": "",
+        "credit": 15541.27,
+        "extra_data": null
+      },
+      {
+        "id": "4314efd43c9840ab37a5ecb72aa40ac0",
+        "reference": "ref 42",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....964887",
+        "debit": 5335.32,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "1cc0a1bf2afa236bcc6b1874f8cc302e",
+        "reference": "ref 43",
+        "date": "04/05/2023",
+        "detail": "PAYPAL *PUBLICIZE",
+        "debit": 7551.92,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "30be8c060adbbcb814c9731f5c7155ca",
+        "reference": "ref 44",
+        "date": "04/05/2023",
+        "detail": "LIM*RIDE COST",
+        "debit": 9471.82,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "262478f918199c308f6af7edbff722db",
+        "reference": "ref 45",
+        "date": "04/05/2023",
+        "detail": "CAFETERIA FAC DE ODONTMONTEVID",
+        "debit": 11817.38,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "dbdcfa95bacb5cfc55d28a0e5f3e5172",
+        "reference": "ref 46",
+        "date": "04/05/2023",
+        "detail": "MARKET.COM.UY",
+        "debit": 4636.66,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "ee2073fa89707e92b1f38d71ee358e15",
+        "reference": "ref 47",
+        "date": "04/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 967070TRX:683317 SUC:71 DISP:2 4/376728 TARJ:XX6210",
+        "debit": 13038.53,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "ec7616d527a103898161d5f5e6ada667",
+        "reference": "ref 48",
+        "date": "04/05/2023",
+        "detail": "LEMON CUOTA 4/6",
+        "debit": 10607.6,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "98570f9d6fd65584649328f3677fe37d",
+        "reference": "ref 49",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....009452",
+        "debit": 2196.45,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "cc7ff1f0e2a8a07e471d0502fa8ac607",
+        "reference": "ref 50",
+        "date": "04/05/2023",
+        "detail": "UBER 3CKIB HELP.UBER.COM",
+        "debit": 11555.26,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "0160218f572888e5025babbb5d11cbc4",
+        "reference": "ref 51",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....133444",
+        "debit": 2930.61,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "6e2e7cf4041f671e003c6ce0ad540261",
+        "reference": "ref 52",
+        "date": "04/05/2023",
+        "detail": "LENCERIA LUMIERE MAESTCENTRO",
+        "debit": 2244.64,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a487db763cf15e429c7435b2a0277c09",
+        "reference": "ref 53",
+        "date": "04/05/2023",
+        "detail": "LA OPERA",
+        "debit": 876.58,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "cce53160b0ea119f87fb6fc03b21a11c",
+        "reference": "ref 54",
+        "date": "04/05/2023",
+        "detail": "DEB. CAMBIOSST....689427",
+        "debit": 4305.41,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d46d2504e34b35034cde3fa62d59aec9",
+        "reference": "ref 0",
+        "date": "05/05/2023",
+        "detail": "ESPIGA DE ORO",
+        "debit": 4290.98,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b276f73fb1beb02ac3b598a1e6835c96",
+        "reference": "ref 1",
+        "date": "05/05/2023",
+        "detail": "UBER UY APR02 3SEEK HELP.",
+        "debit": 8504.25,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8b32f70d14f2c7b2ea5557879d6429a4",
+        "reference": "ref 2",
+        "date": "05/05/2023",
+        "detail": "LIBRERIA MINERVA MAES MONTEVID",
+        "debit": 13708.72,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f3622c367f0bc46d7e6d7ad6cacd1c3d",
+        "reference": "ref 3",
+        "date": "05/05/2023",
+        "detail": "CR. PAGO SUELDOS 20170426_0637800 COFCO SERVICES S.A.",
+        "debit": "",
+        "credit": 14066.4,
+        "extra_data": null
+      },
+      {
+        "id": "3b9867e94633d0c79bf58789b303fc42",
+        "reference": "ref 4",
+        "date": "05/05/2023",
+        "detail": "PAYPAL *KAVAFES",
+        "debit": 11706.39,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "02b54f57d5854efc093f85f0d964b1a6",
+        "reference": "ref 5",
+        "date": "05/05/2023",
+        "detail": "DEB. CAMBIOSST....159963",
+        "debit": 2955.66,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "3fc22fb13282c5903dfd881132070e2a",
+        "reference": "ref 6",
+        "date": "05/05/2023",
+        "detail": "PETROBRAS BLANQUEO SA",
+        "debit": 4232.55,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b35c2d595244942cf77bccf5bcd1443f",
+        "reference": "ref 7",
+        "date": "05/05/2023",
+        "detail": "MEDICA URUGUAYA",
+        "debit": 1456.62,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "0d7b74e93418a1b33bbd56dd8af33605",
+        "reference": "ref 8",
+        "date": "05/05/2023",
+        "detail": "LA COCINA DE PEDRO",
+        "debit": 10428.94,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "bc08c4c21b09767413f4cf5f254bb098",
+        "reference": "ref 9",
+        "date": "05/05/2023",
+        "detail": "REST EL CLUB DE LA PAPCENTRO",
+        "debit": 2624.87,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e377bd949b614eaffcc5c843fa09c30d",
+        "reference": "ref 10",
+        "date": "05/05/2023",
+        "detail": "EL NOVILLO ALEGRE",
+        "debit": 1740.26,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "6d041c4d4127dcabdd0f1186fdd118c8",
+        "reference": "ref 11",
+        "date": "05/05/2023",
+        "detail": "UBER TRIP CKFC4 HELP.UBER",
+        "debit": 2105.5,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "66999e1485e3f1ab006c9aa8f33dbb59",
+        "reference": "ref 12",
+        "date": "05/05/2023",
+        "detail": "COPEC PTO VARAS",
+        "debit": 8029.15,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "76535dc0b6f16485b514459d679a573a",
+        "reference": "ref 13",
+        "date": "05/05/2023",
+        "detail": "VEO VEO JUGUETE CUOTA 01/03",
+        "debit": 8244.31,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "10e3bf05325082544ad6907799ee6008",
+        "reference": "ref 14",
+        "date": "05/05/2023",
+        "detail": "ARQUITECTURA RIFA 20",
+        "debit": 8135.43,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "00cb1f24f245fdb9f3df95e9cfaaac09",
+        "reference": "ref 15",
+        "date": "05/05/2023",
+        "detail": "DEB. CAMBIOSST....357574",
+        "debit": 8326.37,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "075c474ed987e0e04e178f7c55ba736a",
+        "reference": "ref 16",
+        "date": "05/05/2023",
+        "detail": "ASENCIO BAR",
+        "debit": "",
+        "credit": 18985.24,
+        "extra_data": null
+      },
+      {
+        "id": "f41739ab2409bf43296d53850c1d90fb",
+        "reference": "ref 17",
+        "date": "05/05/2023",
+        "detail": "COBRO CUOTA PRESTAMO AMORTIZABLE 650040870223 CUO: 034",
+        "debit": 534.52,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a0980b505aef945e49f5967fb923f161",
+        "reference": "ref 18",
+        "date": "05/05/2023",
+        "detail": "VETERINARIA CIUDAD AVEFARO JOS",
+        "debit": 1562.71,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4d7278599cfc59eda98ec986a24d97d1",
+        "reference": "ref 19",
+        "date": "05/05/2023",
+        "detail": "TRASPASO DE 5661545ILINK",
+        "debit": "",
+        "credit": 18714.88,
+        "extra_data": null
+      },
+      {
+        "id": "dddf854da2d1b1b7f6188cc05cfe47fd",
+        "reference": "ref 20",
+        "date": "05/05/2023",
+        "detail": "CURRY VILLAGE GROCERY",
+        "debit": 714.38,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "be8c8e0eab4093b869615b28771bf400",
+        "reference": "ref 21",
+        "date": "05/05/2023",
+        "detail": "PAGO RED PAGOS",
+        "debit": "",
+        "credit": 8493.92,
+        "extra_data": null
+      },
+      {
+        "id": "2cc52432d48ae048186b2cdba4c5032f",
+        "reference": "ref 22",
+        "date": "05/05/2023",
+        "detail": "TRASPASO DE 7961320ILINK",
+        "debit": "",
+        "credit": 4001.73,
+        "extra_data": null
+      },
+      {
+        "id": "c7fd09692f783eba02a673091fac1af4",
+        "reference": "ref 23",
+        "date": "05/05/2023",
+        "detail": "PAYPAL *FACEBOOK",
+        "debit": 2918.43,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "167a412b56ff5df774f33925d147768d",
+        "reference": "ref 24",
+        "date": "05/05/2023",
+        "detail": "DEB. CAMBIOSST....211671",
+        "debit": 10040.69,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c3c0c8244088602c930fe90d6f305c2f",
+        "reference": "ref 25",
+        "date": "05/05/2023",
+        "detail": "TRASPASO DE 6083212ILINK",
+        "debit": "",
+        "credit": 14084.18,
+        "extra_data": null
+      },
+      {
+        "id": "5e2318166adab4d53ebd55a95d8e0d8f",
+        "reference": "ref 26",
+        "date": "05/05/2023",
+        "detail": "REDIVA 19210UTE734434887",
+        "debit": "",
+        "credit": 4078.32,
+        "extra_data": null
+      },
+      {
+        "id": "9913a4f5e2328f7fb2fbf0f0b379ad14",
+        "reference": "ref 27",
+        "date": "05/05/2023",
+        "detail": "MSFT * E050052J7H",
+        "debit": 10870.52,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "0617a91c46ee3ef4a04e283d4bd70d88",
+        "reference": "ref 28",
+        "date": "05/05/2023",
+        "detail": "UBER TRIP XW7BN HELP",
+        "debit": 6734.63,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "527a50848b4b4fe8a9f62e2ed5ff1062",
+        "reference": "ref 29",
+        "date": "05/05/2023",
+        "detail": "DEB. CAMBIOSST....706589",
+        "debit": 14404.25,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "88b7224eaa225bbf6816be1311ca67ff",
+        "reference": "ref 30",
+        "date": "05/05/2023",
+        "detail": "OPTICA VIU CUOTA 4/6",
+        "debit": 1191.4,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "92a23721c95b3856f1956cb60e80f5de",
+        "reference": "ref 31",
+        "date": "05/05/2023",
+        "detail": "PAYPAL *QUALIAFINTE",
+        "debit": 1268.15,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4545fbf47e6a632e8a2e6b12358793be",
+        "reference": "ref 32",
+        "date": "05/05/2023",
+        "detail": "UBER UY OCT24 KO3MX",
+        "debit": 4986.76,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "624b1f066b7f26ebc8d1ea24fcb07a3d",
+        "reference": "ref 33",
+        "date": "05/05/2023",
+        "detail": "CRE. CAMBIOSOP....242135",
+        "debit": "",
+        "credit": 7804.9,
+        "extra_data": null
+      },
+      {
+        "id": "15580ae73c438e19e661fe6f434511da",
+        "reference": "ref 34",
+        "date": "05/05/2023",
+        "detail": "LIBRERIAVILA",
+        "debit": 14412.24,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a04c818a3c4b0835a771d4f449f885ff",
+        "reference": "ref 35",
+        "date": "05/05/2023",
+        "detail": "MERCADOLIBRE.COM CUOTA 8/9",
+        "debit": 5637.25,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c579eb8f3c46c30c7098c7394c7a33af",
+        "reference": "ref 36",
+        "date": "05/05/2023",
+        "detail": "DB COBRO PRESTAMO",
+        "debit": 6541.08,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7f69289d60a8614251247ca686732ae9",
+        "reference": "ref 37",
+        "date": "05/05/2023",
+        "detail": "DEB. CAMBIOSST....173140",
+        "debit": 12517.34,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e3f1df1d3fcc66363fa45aa36c94b778",
+        "reference": "ref 38",
+        "date": "05/05/2023",
+        "detail": "UBER TRIP K7MI4 HELP",
+        "debit": 8747.42,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "faf0fa5b0e5fa1152af4bcb5d9136d07",
+        "reference": "ref 39",
+        "date": "05/05/2023",
+        "detail": "DNH*DOMAIN/HOSTING",
+        "debit": 2793.58,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d01450300f9db87f6b8233eb5759bc11",
+        "reference": "ref 40",
+        "date": "05/05/2023",
+        "detail": "DEB. CAMBIOSST....326070",
+        "debit": 14811.34,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "45ef8e958cf86c3c7985acb5155ae35c",
+        "reference": "ref 41",
+        "date": "05/05/2023",
+        "detail": "DEB. CAMBIOSST....059372",
+        "debit": 12365.94,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "641aa4295e06230eead53efef94ced80",
+        "reference": "ref 42",
+        "date": "05/05/2023",
+        "detail": "DEB. CAMBIOSST....958942",
+        "debit": 11406.27,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9d6da693061faee2a5b0de10c349dc6b",
+        "reference": "ref 43",
+        "date": "05/05/2023",
+        "detail": "SBARRO",
+        "debit": 1522.23,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "bae5d46bc07956a25ece534e34ff6adb",
+        "reference": "ref 44",
+        "date": "05/05/2023",
+        "detail": "AIRBNB * HMZATTFBMY",
+        "debit": 10109.01,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "674875f6ba43523aa4ffed1685d8dd3d",
+        "reference": "ref 45",
+        "date": "05/05/2023",
+        "detail": "TIGARAKSA-EP.ID*6B18AC9EDE284C7882F6",
+        "debit": 3717.86,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8c068b156be37619632498c26eff54b1",
+        "reference": "ref 46",
+        "date": "05/05/2023",
+        "detail": "CRE. CAMBIOSOP....525411",
+        "debit": "",
+        "credit": 15628.07,
+        "extra_data": null
+      },
+      {
+        "id": "f97b33fb1d5359d9ca88deb9c87bd111",
+        "reference": "ref 47",
+        "date": "05/05/2023",
+        "detail": "REDIVA 17934LA EXUSA",
+        "debit": "",
+        "credit": 17201.57,
+        "extra_data": null
+      },
+      {
+        "id": "4a36c36b601040793d5324d784dea3da",
+        "reference": "ref 48",
+        "date": "05/05/2023",
+        "detail": "REDIVA 19210CAFE BRASILE",
+        "debit": "",
+        "credit": 2072.06,
+        "extra_data": null
+      },
+      {
+        "id": "f019cb8d3c4b61ba59e0195eb1821662",
+        "reference": "ref 49",
+        "date": "05/05/2023",
+        "detail": "CLUB DE LAGO HOTEL",
+        "debit": 3438.29,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "318fe83fe6118d9ca6c73c9529387dd5",
+        "reference": "ref 50",
+        "date": "05/05/2023",
+        "detail": "DEB. CAMBIOSST....091383",
+        "debit": 10435.77,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "16bc62e1fee0a609387fbc68ec824100",
+        "reference": "ref 51",
+        "date": "05/05/2023",
+        "detail": "AMERICAN AIR00106504",
+        "debit": 4236.5,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c3bc9471aa7735572a089b240e6666c7",
+        "reference": "ref 52",
+        "date": "05/05/2023",
+        "detail": "DEB. CAMBIOSST....783282",
+        "debit": 5989.95,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "006063b36e68fbde73725e674c2047d7",
+        "reference": "ref 53",
+        "date": "05/05/2023",
+        "detail": "DEB.CONTRATO5626381 001",
+        "debit": 3424.94,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "eb89e5b5c988134ffbefea9a630d1f68",
+        "reference": "ref 54",
+        "date": "05/05/2023",
+        "detail": "EUROHOSTEL OY",
+        "debit": 10711.33,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f5a11de9e41d39525b8e40c55b8f04b9",
+        "reference": "ref 0",
+        "date": "06/05/2023",
+        "detail": "LINKEDIN-339*5804164",
+        "debit": 4407.52,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "acc96999e4f8a6b59ba633fb329ab0d2",
+        "reference": "ref 1",
+        "date": "06/05/2023",
+        "detail": "DEB. CAMBIOSST....951725",
+        "debit": 1971.29,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c66fda2281f9d1685a7e347f7c4f4682",
+        "reference": "ref 2",
+        "date": "06/05/2023",
+        "detail": "DEB. CAMBIOSST....716900",
+        "debit": 3686.43,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9481b579dba70816fad1e467e2546b9c",
+        "reference": "ref 3",
+        "date": "06/05/2023",
+        "detail": "UBER UY AUG24 JVPWZ",
+        "debit": 12446.86,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7aa1479c8abcc523544006fb6eaef8ea",
+        "reference": "ref 4",
+        "date": "06/05/2023",
+        "detail": "DEB. CAMBIOSCOMI..054300",
+        "debit": 1654.99,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "241306c79c4c6b60b6b9ab152f63b2f1",
+        "reference": "ref 5",
+        "date": "06/05/2023",
+        "detail": "CRE. CAMBIOSOP....081101",
+        "debit": "",
+        "credit": 11819.09,
+        "extra_data": null
+      },
+      {
+        "id": "4910ee4e3ff9bd745b7b6a6266dd08a2",
+        "reference": "ref 6",
+        "date": "06/05/2023",
+        "detail": "DEB. CAMBIOSCOMI..405144",
+        "debit": 471.67,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "23f483c2c7d1e2c4488f78657ac4f7fa",
+        "reference": "ref 7",
+        "date": "06/05/2023",
+        "detail": "DEB.CONTRATO5585970 008",
+        "debit": 1405.84,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c9078cc2607cb0133457efa781df2ff8",
+        "reference": "ref 8",
+        "date": "06/05/2023",
+        "detail": "DEB. CAMBIOSST....103317",
+        "debit": 5538.04,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "918bfbf492b675f549657fb830ea3153",
+        "reference": "ref 9",
+        "date": "06/05/2023",
+        "detail": "CRE. CAMBIOSOP....289215",
+        "debit": "",
+        "credit": 15156.12,
+        "extra_data": null
+      },
+      {
+        "id": "ad7e493501ab3acd647d3971cca2740d",
+        "reference": "ref 10",
+        "date": "06/05/2023",
+        "detail": "DEB. CAMBIOSST....243110",
+        "debit": 1771.59,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8553ab4b9456ac0551c723a0c200885c",
+        "reference": "ref 11",
+        "date": "06/05/2023",
+        "detail": "UBER UY OCT29 Z73EX HELP.",
+        "debit": 12703.77,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9026501676c2f6ef280669baaab64696",
+        "reference": "ref 12",
+        "date": "06/05/2023",
+        "detail": "REDIVA 19210UTE384997642",
+        "debit": "",
+        "credit": 18641.73,
+        "extra_data": null
+      },
+      {
+        "id": "2c140085ba8beaf5b3cd5be2e9353617",
+        "reference": "ref 13",
+        "date": "06/05/2023",
+        "detail": "ESSO COLON SC",
+        "debit": 3399.44,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "0f7df638914e320d0bcf339d6c9b32af",
+        "reference": "ref 14",
+        "date": "06/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 965255TRX:827761 SUC:5 DISP:45 5/1201288653 TARJ:XX7605",
+        "debit": 6332.97,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "acca1ad7006ba375f2a53be258a77d7d",
+        "reference": "ref 15",
+        "date": "06/05/2023",
+        "detail": "DEB. CAMBIOSST....787717",
+        "debit": 1654.89,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "bbe933751674cfa0d80c04a7d2d08818",
+        "reference": "ref 16",
+        "date": "06/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 963415TRX:344270 SUC:27 DISP:29 4/78603 TARJ:XX0538",
+        "debit": 1617.91,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "6aafd526fe8391358ba878ca1fa0baa1",
+        "reference": "ref 17",
+        "date": "06/05/2023",
+        "detail": "HAIR ASYLIST MA CUOTA 01/02",
+        "debit": 541.69,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "25f895f545c055e887e31caaa0bf73fb",
+        "reference": "ref 18",
+        "date": "06/05/2023",
+        "detail": "ROSAS HNOS",
+        "debit": 4935.17,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "5ddec35a1d0390f8d5a23db7a234cab1",
+        "reference": "ref 19",
+        "date": "06/05/2023",
+        "detail": "UBER UY FEB14 XQMT6",
+        "debit": 10527.28,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4fba22787c0001e43337c6c5612263b0",
+        "reference": "ref 20",
+        "date": "06/05/2023",
+        "detail": "STARLINE TOURS",
+        "debit": 13968.25,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "15ae0c59c7516c8c012316bbd67a567d",
+        "reference": "ref 21",
+        "date": "06/05/2023",
+        "detail": "RETIRO EFECTIVO DISPENSADOR 565305TRX:00013060 SUC:38 CTA:2/9014906603",
+        "debit": 6374.19,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "eb8e43941ac44978cb196341b59377e8",
+        "reference": "ref 22",
+        "date": "06/05/2023",
+        "detail": "ZS. FRAUDE FULL",
+        "debit": 3820.42,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "1d91fb104d22ad0ef666e1ecf5926e4d",
+        "reference": "ref 23",
+        "date": "06/05/2023",
+        "detail": "UBER DMRLA HELP.UBER.COM",
+        "debit": 7815.31,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "10542f6f1ad5472e545604a98c2a0500",
+        "reference": "ref 24",
+        "date": "06/05/2023",
+        "detail": "CLICKS.CO.ZA*91FEEB1D186B4B9FA915",
+        "debit": 6753.15,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "55170b6824c747c9ff45f6c4a55b7fd6",
+        "reference": "ref 25",
+        "date": "06/05/2023",
+        "detail": "DEB. CAMBIOSST....281111",
+        "debit": 10594.63,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "895fbda3829971e95edc0011a2fd111f",
+        "reference": "ref 26",
+        "date": "06/05/2023",
+        "detail": "CHEVRON 0090206",
+        "debit": 8520.46,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "80b354d92b1d9e1d5dfd54cd14cc4023",
+        "reference": "ref 27",
+        "date": "06/05/2023",
+        "detail": "ESSO LA GACETA",
+        "debit": 8758.98,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c8575e0cb13d90824040c019b33949d9",
+        "reference": "ref 28",
+        "date": "06/05/2023",
+        "detail": "DEB.CONTRATO5531729 004",
+        "debit": 12288.45,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "5c773f7c0e21760ef67fc1fe45ebf247",
+        "reference": "ref 29",
+        "date": "06/05/2023",
+        "detail": "UBER UY FEB16 MX2I3",
+        "debit": 5280.38,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "950841696955a72cf836031cfe9e7b6f",
+        "reference": "ref 30",
+        "date": "06/05/2023",
+        "detail": "DEB.CONTRATO5697260 003",
+        "debit": 1015.5,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c1ee7c543c1654fd5f0bccc24358cefe",
+        "reference": "ref 31",
+        "date": "06/05/2023",
+        "detail": "ADOLFO CAFE",
+        "debit": 5272.59,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "aaee27f1ab9e3e628f7fbbccb4015535",
+        "reference": "ref 32",
+        "date": "06/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 961573TRX:808410 SUC:61 DISP:50 61/7001070660 TARJ:XX2735",
+        "debit": 12716.17,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b91ea2542f0170ee6ffd058cdff33ac1",
+        "reference": "ref 33",
+        "date": "06/05/2023",
+        "detail": "DEB. CAMBIOSST....616444",
+        "debit": 8014.14,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "badea6e2e0b4078bd5f13f1980b6bcef",
+        "reference": "ref 34",
+        "date": "06/05/2023",
+        "detail": "UBER TRIP NDBRM HELP.UBER",
+        "debit": 4840.8,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "98bcc740f23c5328f57956b1743329a5",
+        "reference": "ref 35",
+        "date": "06/05/2023",
+        "detail": "SANTUCCI EQUIPA CUOTA 05/06",
+        "debit": 6794.27,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "54926c224820cc7f9bba705fc9154ff1",
+        "reference": "ref 36",
+        "date": "06/05/2023",
+        "detail": "DEB. CAMBIOSST....829315",
+        "debit": 8372.05,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "aaf4b6d562ba57fae4ad8fc5eead8dde",
+        "reference": "ref 37",
+        "date": "06/05/2023",
+        "detail": "UBER TRIP XW7BN HELP",
+        "debit": 11845.82,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "5881a44141923c8427ce6c679aa2ba69",
+        "reference": "ref 38",
+        "date": "06/05/2023",
+        "detail": "REDIVA 192105614787 006",
+        "debit": "",
+        "credit": 17708.37,
+        "extra_data": null
+      },
+      {
+        "id": "4d90a162fa896dbfcf044286ad279375",
+        "reference": "ref 39",
+        "date": "06/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 001063TRX:5039641 SUC:71 DISP:1 4/376728 TARJ:XX0278",
+        "debit": 900.81,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "570e10a4d782b65782ab0f86c9bd382d",
+        "reference": "ref 40",
+        "date": "06/05/2023",
+        "detail": "FARMACIA TUNDIS CUOTA 03/03",
+        "debit": 11533.53,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8ec3d162d5445f60dfbc0b9e6d02d426",
+        "reference": "ref 41",
+        "date": "06/05/2023",
+        "detail": "MOJANG.COM",
+        "debit": 12295.51,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "2d58305f8577af489915f6731d6a6c54",
+        "reference": "ref 42",
+        "date": "06/05/2023",
+        "detail": "UBER UY JUN23 NXYWN",
+        "debit": 14925.91,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f31e30fe2cdbf6ac6e9fc4e24ec8b6b3",
+        "reference": "ref 43",
+        "date": "06/05/2023",
+        "detail": "UBER TRIP 2BWMU HELP.UBER",
+        "debit": 6513.08,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a0adfb28066fb4e502eca63f0fef1488",
+        "reference": "ref 44",
+        "date": "06/05/2023",
+        "detail": "ACREDITACION DE VALORES : 04080310 000004080310",
+        "debit": "",
+        "credit": 7877.09,
+        "extra_data": null
+      },
+      {
+        "id": "8a97ac5475b8c8d08745a34e4a974874",
+        "reference": "ref 45",
+        "date": "06/05/2023",
+        "detail": "INDIAN NUEVO CE CUOTA 03/04",
+        "debit": 435.07,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9ebbbbcbb255e6e7cb61f49506238247",
+        "reference": "ref 46",
+        "date": "06/05/2023",
+        "detail": "LAN AIRLINES04515020",
+        "debit": 10832.94,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "571bb72d1ac2f298b899bf936b4b4eb9",
+        "reference": "ref 47",
+        "date": "06/05/2023",
+        "detail": "DEB. CAMBIOSST....122455",
+        "debit": 13111.33,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "3d1e160e9dda5af43fec443662db5438",
+        "reference": "ref 48",
+        "date": "06/05/2023",
+        "detail": "I AM BURGUESA",
+        "debit": 5023.54,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4217d64908e615eb5d2a717b2cc232f6",
+        "reference": "ref 49",
+        "date": "06/05/2023",
+        "detail": "UBER TRIP SYMOW HELP",
+        "debit": 11910.16,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "911c291534cd7dbbe4c2c930b48f57ba",
+        "reference": "ref 50",
+        "date": "06/05/2023",
+        "detail": "COM PENDIENTE DE COBRO",
+        "debit": 10341.37,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "87a39467b58058f04eb845591704f973",
+        "reference": "ref 51",
+        "date": "06/05/2023",
+        "detail": "FARMACIA FONT MAESTRO MONTEVID",
+        "debit": 10610.6,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a9574f37aaf5ffdf638c97df5bdcdda3",
+        "reference": "ref 52",
+        "date": "06/05/2023",
+        "detail": "DEB. CAMBIOSST....338700",
+        "debit": 13981.45,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "18530541c64511511eb75bcd96236aa2",
+        "reference": "ref 53",
+        "date": "06/05/2023",
+        "detail": "DEB. CAMBIOSST....350451",
+        "debit": 13925.77,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "995c3b2bac767809de2c55a6f702c917",
+        "reference": "ref 54",
+        "date": "06/05/2023",
+        "detail": "SQ *SAV ON LIQUOR",
+        "debit": 6252.01,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "91df49ea7bac912808c2e0d5fa02d3ee",
+        "reference": "ref 0",
+        "date": "07/05/2023",
+        "detail": "REDIVA 19210UTE962439800",
+        "debit": "",
+        "credit": 10487.88,
+        "extra_data": null
+      },
+      {
+        "id": "811f10cd1c1d7ac8752a0fa73c025b80",
+        "reference": "ref 1",
+        "date": "07/05/2023",
+        "detail": "REDIVA 19210UTE287795258",
+        "debit": "",
+        "credit": 15127.19,
+        "extra_data": null
+      },
+      {
+        "id": "6d2d9f73462e8d94d82de4c426fe5423",
+        "reference": "ref 2",
+        "date": "07/05/2023",
+        "detail": "DEB. CAMBIOSCOMI..084237",
+        "debit": 6805.63,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e9295e37a76ed9030f2b5722ef1c0a4b",
+        "reference": "ref 3",
+        "date": "07/05/2023",
+        "detail": "DEB. CAMBIOSST....829927",
+        "debit": 4282.77,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "2cf674af8732bcbf9f89e2a6d2c042db",
+        "reference": "ref 4",
+        "date": "07/05/2023",
+        "detail": "DEB. VARIOS 22200975",
+        "debit": 10665.24,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "858c2d7a9f7be02db8588bbd024b29ac",
+        "reference": "ref 5",
+        "date": "07/05/2023",
+        "detail": "COBRO CUOTA PRESTAMO AMORTIZABLE 500040039360 CUO: 007",
+        "debit": 1871.29,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7181b8b6b2ccf85d0e3659e1f00e9b10",
+        "reference": "ref 6",
+        "date": "07/05/2023",
+        "detail": "REV.IVA19210VETERINARIA",
+        "debit": 5305.62,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "858236081a90542a995229fc0fa98d84",
+        "reference": "ref 7",
+        "date": "07/05/2023",
+        "detail": "CRE. CAMBIOSOP....418037",
+        "debit": "",
+        "credit": 4846.2,
+        "extra_data": null
+      },
+      {
+        "id": "31826e3f39ec68912edef652f5896aa9",
+        "reference": "ref 8",
+        "date": "07/05/2023",
+        "detail": "UBER TRIP CBYZR HELP",
+        "debit": 2694.31,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c65d161b266af2b6d42254f2390612ee",
+        "reference": "ref 9",
+        "date": "07/05/2023",
+        "detail": "REDIVA 19210ANTEL101G102",
+        "debit": "",
+        "credit": 12817.8,
+        "extra_data": null
+      },
+      {
+        "id": "431549c5b81a84bc26a389797a802816",
+        "reference": "ref 10",
+        "date": "07/05/2023",
+        "detail": "DEB. CAMBIOSST....776562",
+        "debit": 9000.1,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "65c020418c049b6ac79a5f2473366a0c",
+        "reference": "ref 11",
+        "date": "07/05/2023",
+        "detail": "REST EL CLUB DE LA PAPCENTRO",
+        "debit": 649.25,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a71cc65d6da9f383b24fa2c6411bdfc1",
+        "reference": "ref 12",
+        "date": "07/05/2023",
+        "detail": "OUTLET LEOPOLDO GROSS COLONIA",
+        "debit": 5293.25,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d4e109ddf195ef22e321a1b32f1b294b",
+        "reference": "ref 13",
+        "date": "07/05/2023",
+        "detail": "DEB. CAMBIOSST....893001",
+        "debit": 805.12,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a471182942e4604e50913348633c7dd3",
+        "reference": "ref 14",
+        "date": "07/05/2023",
+        "detail": "UBER TRIP PSLEB HELP",
+        "debit": 11482.16,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d1bff155e585c2a36a6b8521efe108f9",
+        "reference": "ref 15",
+        "date": "07/05/2023",
+        "detail": "PIZZERIA RIVERA",
+        "debit": 5375.5,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8015a1ed5173f21fb4f4183b3f85228f",
+        "reference": "ref 16",
+        "date": "07/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 002685TRX:5009834 SUC:71 DISP:1 4/376728 TARJ:XX6540",
+        "debit": 9206.94,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "18921c04a24894ffeb16d2b2f09f8ad8",
+        "reference": "ref 17",
+        "date": "07/05/2023",
+        "detail": "COTY PARTY CUOTA 1/2",
+        "debit": 12784.74,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f99893d727398820f4f9531b516c3964",
+        "reference": "ref 18",
+        "date": "07/05/2023",
+        "detail": "UBER UY FEB03 D3GGT",
+        "debit": 2476.45,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b74e71067d5ccaa81595ade6dce5a81d",
+        "reference": "ref 19",
+        "date": "07/05/2023",
+        "detail": "REDIVA 19210RAFA",
+        "debit": "",
+        "credit": 16406.03,
+        "extra_data": null
+      },
+      {
+        "id": "9f3e4edeced35d2800804d117a9b402f",
+        "reference": "ref 20",
+        "date": "07/05/2023",
+        "detail": "IV REINAS",
+        "debit": 10365.86,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8e3d2bee25a80d6fd26e8e1db31fe650",
+        "reference": "ref 21",
+        "date": "07/05/2023",
+        "detail": "UBER UY JUN11 OZNUY",
+        "debit": 4240.79,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "5e8c9dea108385d2add8c0ca6a240cc7",
+        "reference": "ref 22",
+        "date": "07/05/2023",
+        "detail": "COBRO CUOTA PRESTAMO AMORTIZABLE 500040009356 CUO: 086",
+        "debit": 7889.91,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "331d2baa35392277e92f8520a69d4607",
+        "reference": "ref 23",
+        "date": "07/05/2023",
+        "detail": "STARBUCKS TALCAHUANO",
+        "debit": 5494.43,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8670288a05b97867900596162eff876c",
+        "reference": "ref 24",
+        "date": "07/05/2023",
+        "detail": "PETROBRAS BARRA DE C",
+        "debit": 10549.53,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "0801d3115bd5287daf1cdcc08cbd0614",
+        "reference": "ref 25",
+        "date": "07/05/2023",
+        "detail": "UBER TRIP UEMDE HELP",
+        "debit": 13988.93,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4bd1ff3c14fa81e7e659e016b29830e0",
+        "reference": "ref 26",
+        "date": "07/05/2023",
+        "detail": "PAGO SUPERNET",
+        "debit": "",
+        "credit": 9049.19,
+        "extra_data": null
+      },
+      {
+        "id": "6e2a52cb6f2d88ad7f840ff5c53c2ecd",
+        "reference": "ref 27",
+        "date": "07/05/2023",
+        "detail": "INFANTOZZI MATERIALE CUOTA 1/4",
+        "debit": 10280.4,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a69791a1874206cfa89fbd592c920ffb",
+        "reference": "ref 28",
+        "date": "07/05/2023",
+        "detail": "DEB. CAMBIOSST....890943",
+        "debit": 2853.04,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7f54989522f090259d8af59bc7cdcc1b",
+        "reference": "ref 29",
+        "date": "07/05/2023",
+        "detail": "TRASPASO DE 9596266ILINK",
+        "debit": "",
+        "credit": 9628.48,
+        "extra_data": null
+      },
+      {
+        "id": "61bb0a903d21d40eded18c3848c4fa9b",
+        "reference": "ref 30",
+        "date": "07/05/2023",
+        "detail": "PAGO DE FACTURA 012852 ANTEL_B ANTEL FACT. 101D7145684",
+        "debit": 12986,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "6541a765ca87620024f319950905ec17",
+        "reference": "ref 31",
+        "date": "07/05/2023",
+        "detail": "UBER UY JUL08 W556J",
+        "debit": 13586.42,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d0927d1eebbf12e232caf25d72ddcc73",
+        "reference": "ref 32",
+        "date": "07/05/2023",
+        "detail": "ESSO S. OMBU S.A.",
+        "debit": 7920.39,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8020c39c67503cad150703f94500d11a",
+        "reference": "ref 33",
+        "date": "07/05/2023",
+        "detail": "UBER TRIP JIQVG HELP.UBER",
+        "debit": 3123.58,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "90c2ad87d831f34348cc383cfd2b4497",
+        "reference": "ref 34",
+        "date": "07/05/2023",
+        "detail": "DEB. CAMBIOSST....965474",
+        "debit": 8426.4,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b9e5a2f899bf4ad58f87925de1702952",
+        "reference": "ref 35",
+        "date": "07/05/2023",
+        "detail": "UBER UY APR05 SMLXF",
+        "debit": 3332.01,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "43419729fb32f7ca8646a044477e1052",
+        "reference": "ref 36",
+        "date": "07/05/2023",
+        "detail": "DEB. CAMBIOSST....491346",
+        "debit": 10281.95,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "6f874f1ef2735a6cc9da786f837e6c51",
+        "reference": "ref 37",
+        "date": "07/05/2023",
+        "detail": "DEB.CONTRATO5626381 002",
+        "debit": 2440.75,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "751cbb1748c7f66ed5ab8899d763f9b5",
+        "reference": "ref 38",
+        "date": "07/05/2023",
+        "detail": "VOGLIO",
+        "debit": 10023.1,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c598f8b8ce67c85d7327f9c842d46acf",
+        "reference": "ref 39",
+        "date": "07/05/2023",
+        "detail": "DEB. CAMBIOSST....657289",
+        "debit": 14204.46,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e39a94cf0b6718597b53abd43d7e4802",
+        "reference": "ref 40",
+        "date": "07/05/2023",
+        "detail": "UBER UY SEP22 TMQZV",
+        "debit": 7314.61,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "08636514802541d18ceaffec6d0ba91a",
+        "reference": "ref 41",
+        "date": "07/05/2023",
+        "detail": "DEVOTO EXPRESS 20",
+        "debit": 9945.09,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f0321e498aa77fcfcb2765770fdeb58e",
+        "reference": "ref 42",
+        "date": "07/05/2023",
+        "detail": "LA NUEVA POSADA DEL PAMONTEVID",
+        "debit": 11803.47,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "3b0f5afb0761a6e6d6699efea1f70986",
+        "reference": "ref 43",
+        "date": "07/05/2023",
+        "detail": "PSA",
+        "debit": 1651.35,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9f5aaf587712ccc391c95db7ef91cdb9",
+        "reference": "ref 44",
+        "date": "07/05/2023",
+        "detail": "UBER UY APR09 7MKNS HELP.",
+        "debit": 12749.49,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d001375034baabc88fd3d8b14c09e7c7",
+        "reference": "ref 45",
+        "date": "07/05/2023",
+        "detail": "TRASPASO DE 7426653ILINK",
+        "debit": "",
+        "credit": 17852.34,
+        "extra_data": null
+      },
+      {
+        "id": "912b7bd45a31388bf53081fce03b1081",
+        "reference": "ref 46",
+        "date": "07/05/2023",
+        "detail": "OUI BY DELIBEST",
+        "debit": 3279.07,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "5d6d1b1422175fdac186f22df1c9583a",
+        "reference": "ref 47",
+        "date": "07/05/2023",
+        "detail": "UBER TRIP AYZBO HELP",
+        "debit": 1017.71,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4a00fb81a7743fc152a4af46965df41e",
+        "reference": "ref 48",
+        "date": "07/05/2023",
+        "detail": "INVERSIONES IVA S/COFRE",
+        "debit": 10325.95,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "1d169b005ace2a5d402f86fbfc0da541",
+        "reference": "ref 49",
+        "date": "07/05/2023",
+        "detail": "DEBITO A CONFIRMAR BANRED COMPRA 071592 - MONTEVIDEO/AUTOSERV. MARTIN PESCVIS3 -",
+        "debit": 14299.91,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "21c359f7f45d99c299aece34a2fc6b6d",
+        "reference": "ref 50",
+        "date": "07/05/2023",
+        "detail": "UBER TRIP PLRLL HELP",
+        "debit": 3406.54,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "12568a40c1084ecd07f430952093d38a",
+        "reference": "ref 51",
+        "date": "07/05/2023",
+        "detail": "UBER TRIP 3NJNW HELP",
+        "debit": 8111.38,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8eafb79b6884931645b2aa273edc9df9",
+        "reference": "ref 52",
+        "date": "07/05/2023",
+        "detail": "UBER UY OCT31 MF2CC",
+        "debit": 3640.54,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a0608aac0df4df2c969f69945e353165",
+        "reference": "ref 53",
+        "date": "07/05/2023",
+        "detail": "BUILDERS.CO.ZA*BD3978EB0EC14CA9A91F",
+        "debit": 8878.97,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4f37082e6c618e279d0b614b2fb4555c",
+        "reference": "ref 54",
+        "date": "07/05/2023",
+        "detail": "REDIVA 17934KEMPER Y RIU",
+        "debit": "",
+        "credit": 14460.11,
+        "extra_data": null
+      },
+      {
+        "id": "9154779ef195eeb32b19bc965e9858e0",
+        "reference": "ref 0",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....778353",
+        "debit": 14241.02,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "51bca983d918c18d5849b5b2e2ec2b78",
+        "reference": "ref 1",
+        "date": "08/05/2023",
+        "detail": "REDIVA 19210ANTEL101H375",
+        "debit": "",
+        "credit": 15660.55,
+        "extra_data": null
+      },
+      {
+        "id": "cfe7d5e1f5de8da7e79c67a88862dae7",
+        "reference": "ref 2",
+        "date": "08/05/2023",
+        "detail": "ADIDAS ORIGINAL CUOTA 05/06",
+        "debit": 9312.43,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "66de334442def255ad3eb3a46bd0af0f",
+        "reference": "ref 3",
+        "date": "08/05/2023",
+        "detail": "EL GRIFO DE PALERMO",
+        "debit": 9187.56,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "83f9c8a9c90708b4b16bc0cee4c66e60",
+        "reference": "ref 4",
+        "date": "08/05/2023",
+        "detail": "LUCAN",
+        "debit": 11530.24,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "76fa23e78861709d05858e707ec6c5d7",
+        "reference": "ref 5",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....564678",
+        "debit": 924.95,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "6d6c36bde17244d32faabc911186a9d9",
+        "reference": "ref 6",
+        "date": "08/05/2023",
+        "detail": "AMZN MKTP US*MZ5728T",
+        "debit": 2135.92,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a6b85effee65d89545d5453175471cbb",
+        "reference": "ref 7",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....887157",
+        "debit": 6052.2,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "1d81072dc6e9d7763e5828d33b0ca7da",
+        "reference": "ref 8",
+        "date": "08/05/2023",
+        "detail": "CAPITAL BIKE SHARE",
+        "debit": 3029.68,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "2701ca5b096c72bed74fdbfd0c9dbd85",
+        "reference": "ref 9",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....694441",
+        "debit": 1791.33,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d7182b86f8e3baedcc96c419b274e1c6",
+        "reference": "ref 10",
+        "date": "08/05/2023",
+        "detail": "G-MIAMI FOOD AIRPORT",
+        "debit": 2279.06,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a134c4757cf721acd51d17c666e0d29b",
+        "reference": "ref 11",
+        "date": "08/05/2023",
+        "detail": "CRE. CAMBIOSOP....553678",
+        "debit": "",
+        "credit": 19755.19,
+        "extra_data": null
+      },
+      {
+        "id": "079f8fdfa63fd6effa7e81ea14117622",
+        "reference": "ref 12",
+        "date": "08/05/2023",
+        "detail": "UBER UY APR29 P3WG3 HELP.",
+        "debit": 14053.46,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9cf44a3182694945d9bc034cbfec2793",
+        "reference": "ref 13",
+        "date": "08/05/2023",
+        "detail": "UBER TRIP 5P4QF HELP.UBER",
+        "debit": 10230.85,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "2138350ca7d7e7e1e5ab003a3f812496",
+        "reference": "ref 14",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....045517",
+        "debit": 13634.72,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c15d8b9bbbd9602f956f06ee1e4d27ac",
+        "reference": "ref 15",
+        "date": "08/05/2023",
+        "detail": "TRASPASO DE 7105073MTPAY",
+        "debit": "",
+        "credit": 8740.59,
+        "extra_data": null
+      },
+      {
+        "id": "796bbc835e06c9b9b6c77dab212a1d1f",
+        "reference": "ref 16",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....258770",
+        "debit": 12415.33,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "746ec5a50cee4e03e7187004d9db81f6",
+        "reference": "ref 17",
+        "date": "08/05/2023",
+        "detail": "PARRILLADA DEL PUERTITO",
+        "debit": 7620.64,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "2203ff35ae8fbef3cee55bcad33c378b",
+        "reference": "ref 18",
+        "date": "08/05/2023",
+        "detail": "BRICKELL IRISH GASTR",
+        "debit": 12858.64,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8aca317ae889b8ce28d0649f2df4092e",
+        "reference": "ref 19",
+        "date": "08/05/2023",
+        "detail": "CRE. CAMBIOSOP....935610",
+        "debit": "",
+        "credit": 4348.29,
+        "extra_data": null
+      },
+      {
+        "id": "c18e2ba0d0baf191c60b0c61e885e3a4",
+        "reference": "ref 20",
+        "date": "08/05/2023",
+        "detail": "UBER UY MAR05 PIHLE",
+        "debit": 9800.29,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "21b2a7424051118d05cb6522e4a02889",
+        "reference": "ref 21",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSCOMI..350219",
+        "debit": 14340.49,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "bb8292892fcfe3800c2f701276457bbd",
+        "reference": "ref 22",
+        "date": "08/05/2023",
+        "detail": "UBER TRIP 7FR2E HELP",
+        "debit": 10927.64,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "ffa5d9a422ba89c29645f497f6766496",
+        "reference": "ref 23",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....638976",
+        "debit": 4851.31,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "fe128d9d406d9e3f7bf1a95e5b66c8e9",
+        "reference": "ref 24",
+        "date": "08/05/2023",
+        "detail": "DEB.CONTRATO3100362 015",
+        "debit": 1076,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "deed92adbe964accfd93d95374728041",
+        "reference": "ref 25",
+        "date": "08/05/2023",
+        "detail": "TRASPASO DE 6604553ILINK",
+        "debit": "",
+        "credit": 16523.98,
+        "extra_data": null
+      },
+      {
+        "id": "05d595ea466d3bf2a32949d5855751c7",
+        "reference": "ref 26",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....460079",
+        "debit": 13739.59,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7043867b55d0342ce5ddef9b59e324a7",
+        "reference": "ref 27",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....370991",
+        "debit": 12084.13,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a4de927f9f3d7f43e5bd5b2afb802f94",
+        "reference": "ref 28",
+        "date": "08/05/2023",
+        "detail": "CR. PAGO SUELDOS 20161228_0070000 COFCO SERVICES S.A.",
+        "debit": "",
+        "credit": 14389.48,
+        "extra_data": null
+      },
+      {
+        "id": "634ceaa2de9503033279beae105a7fb6",
+        "reference": "ref 29",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....638191",
+        "debit": 11466.63,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d6536fad694b9164ea6604b325e784b3",
+        "reference": "ref 30",
+        "date": "08/05/2023",
+        "detail": "CRE. CAMBIOSOP....320261",
+        "debit": "",
+        "credit": 16161.31,
+        "extra_data": null
+      },
+      {
+        "id": "c012f729c836608d6d337633770cdd02",
+        "reference": "ref 31",
+        "date": "08/05/2023",
+        "detail": "TRASPASO DE 6141240ILINK",
+        "debit": "",
+        "credit": 18181.72,
+        "extra_data": null
+      },
+      {
+        "id": "4d31fc28abcda918e11ccb5db1540dfd",
+        "reference": "ref 32",
+        "date": "08/05/2023",
+        "detail": "LANERIA MICHELE MAESTRMONTEVID",
+        "debit": 6913.57,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "2e7f35ba9b5a88790576de5d9e2c3db9",
+        "reference": "ref 33",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....012355",
+        "debit": 3286.61,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "6696ee9ebb8321266feb4db152647e16",
+        "reference": "ref 34",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....918300",
+        "debit": 158.99,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "586fd1849287d58e3dabeac83b28cd39",
+        "reference": "ref 35",
+        "date": "08/05/2023",
+        "detail": "CARNICERIA FLOR DE POCMONTEVID",
+        "debit": 5453.93,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b3d92634297a60528d4ea02ce830bc96",
+        "reference": "ref 36",
+        "date": "08/05/2023",
+        "detail": "FRAVIRA S.R.L",
+        "debit": 9019.33,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "0741ab9dd89253d135c9578c27a5cbae",
+        "reference": "ref 37",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSCOMI..592344",
+        "debit": 3963.2,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "14661bb8081aa234a61a0f7a0367edd9",
+        "reference": "ref 38",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....556586",
+        "debit": 1283.77,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "062e7ae76330b3f7c851ee1c4031c452",
+        "reference": "ref 39",
+        "date": "08/05/2023",
+        "detail": "CR. PAGO SUELDOS 20181207_0059700 JORGE DIAZ SOCIEDAD ANO",
+        "debit": "",
+        "credit": 4950.2,
+        "extra_data": null
+      },
+      {
+        "id": "72df8262b6da541bdfac079e859e7d8a",
+        "reference": "ref 40",
+        "date": "08/05/2023",
+        "detail": "UBER TRIP YQ4FT HELP.UBER",
+        "debit": 9933.94,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "749560c2e14e8658b9be97eadcd5e12a",
+        "reference": "ref 41",
+        "date": "08/05/2023",
+        "detail": "MSFT * E05006BT3I",
+        "debit": 13620.58,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "27fcfd8ad7f5225a14e90cd74dc40eae",
+        "reference": "ref 42",
+        "date": "08/05/2023",
+        "detail": "EL ALTILLO",
+        "debit": 9175.04,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e8a9854c8f731b100bba031c94c8b998",
+        "reference": "ref 43",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....239404",
+        "debit": 5247.93,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d38fdc553a98bdfeeb7bf87c1ce5c51c",
+        "reference": "ref 44",
+        "date": "08/05/2023",
+        "detail": "UBER UY OCT18 ZA63L",
+        "debit": 3047.46,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "77be7d7619aca8810a53fa12765d9d3f",
+        "reference": "ref 45",
+        "date": "08/05/2023",
+        "detail": "TGI FRIDAYS",
+        "debit": 6153.89,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a064e4823bff47d3e286f87a91e73bb3",
+        "reference": "ref 46",
+        "date": "08/05/2023",
+        "detail": "LA CASA DE LA MACETA MMONTEVID",
+        "debit": 3059.81,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "ec6ad19cb4abd576201216f2eee0b79b",
+        "reference": "ref 47",
+        "date": "08/05/2023",
+        "detail": "REST HOSPITAL BRITANICMONTEVID",
+        "debit": 11838.09,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a0a3b98be1cf25d63d92201bb6f7194e",
+        "reference": "ref 48",
+        "date": "08/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 960448TRX:566962 SUC:27 DISP:29 4/78603 TARJ:XX0538",
+        "debit": 5904.61,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "43596f2e3242bf26e610f007da5a9aae",
+        "reference": "ref 49",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....931429",
+        "debit": 2301.63,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "55f6c60ba2ef8099ef0934fdacbb163e",
+        "reference": "ref 50",
+        "date": "08/05/2023",
+        "detail": "TRASPASO DE 2448147ILINK",
+        "debit": "",
+        "credit": 4800.34,
+        "extra_data": null
+      },
+      {
+        "id": "44a28f100a324e7dd9efab6663e006a0",
+        "reference": "ref 51",
+        "date": "08/05/2023",
+        "detail": "DEB. CAMBIOSST....215531",
+        "debit": 7645.37,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "1bd49f70af296ff31891db35c39958cc",
+        "reference": "ref 52",
+        "date": "08/05/2023",
+        "detail": "UBER UY JUN24 LYQOS",
+        "debit": 8911.52,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "ea4ad9b44f03306a0a75f593f0b6d7af",
+        "reference": "ref 53",
+        "date": "08/05/2023",
+        "detail": "LA PULPERIA",
+        "debit": 14049.43,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "25eb10d3bca10ffbbcddfd692a08bf2d",
+        "reference": "ref 54",
+        "date": "08/05/2023",
+        "detail": "RETIRO EFECTIVO DISPENSADOR 361121TRX:00387763 SUC:61 CTA:62/6332188",
+        "debit": 7706.97,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "340d77a34461829d46fd0a50c5e6bbfa",
+        "reference": "ref 0",
+        "date": "09/05/2023",
+        "detail": "REV.IVA19210DANUBIO AZUL",
+        "debit": 1869.3,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9e77ecea8258f4ff55b9607ca84ce7b5",
+        "reference": "ref 1",
+        "date": "09/05/2023",
+        "detail": "PANADERIA VIEJO MOLINOMONTEVID",
+        "debit": 5833.35,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "48fd398145e9bb1e238056405fd91015",
+        "reference": "ref 2",
+        "date": "09/05/2023",
+        "detail": "CR. PAGO SUELDOS 20170403_2307200 SAMILAR SOCIEDAD ANONIMA",
+        "debit": "",
+        "credit": 7656.29,
+        "extra_data": null
+      },
+      {
+        "id": "56f867cda56f0324252d41a89e5da3f5",
+        "reference": "ref 3",
+        "date": "09/05/2023",
+        "detail": "DEB. CAMBIOSST....944553",
+        "debit": 10856.29,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "301d14c938ec5b2a566040f5fac2e282",
+        "reference": "ref 4",
+        "date": "09/05/2023",
+        "detail": "DEB. CAMBIOSST....530877",
+        "debit": 3983.56,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e353384cefc68b3e58b2b7875f36e397",
+        "reference": "ref 5",
+        "date": "09/05/2023",
+        "detail": "DEB. CAMBIOSST....897349",
+        "debit": 7201.39,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9a7555babfd7e2f0909cdd021c5c684c",
+        "reference": "ref 6",
+        "date": "09/05/2023",
+        "detail": "DELTA",
+        "debit": 4992.25,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "37aca156b41215658993d20bcd47cde9",
+        "reference": "ref 7",
+        "date": "09/05/2023",
+        "detail": "REDIVA 19210ABITAB054392",
+        "debit": "",
+        "credit": 11566.09,
+        "extra_data": null
+      },
+      {
+        "id": "1395e9ad82c8e2f396da2c112756ee64",
+        "reference": "ref 8",
+        "date": "09/05/2023",
+        "detail": "CR. PAGO SUELDOS 20170801_1187500 ASOCIACION URUGUAYA ORT",
+        "debit": "",
+        "credit": 19302.58,
+        "extra_data": null
+      },
+      {
+        "id": "53f3a907db605897ff518120bfbb1a63",
+        "reference": "ref 9",
+        "date": "09/05/2023",
+        "detail": "DEB. CAMBIOSST....299988",
+        "debit": 2780.74,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c76d48039b7c32c6e29ce1cced671439",
+        "reference": "ref 10",
+        "date": "09/05/2023",
+        "detail": "UBER TRIP FQJA5 HELP",
+        "debit": 8351.88,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "51bd1230086c1046a887d04eff28ff20",
+        "reference": "ref 11",
+        "date": "09/05/2023",
+        "detail": "DEB. CAMBIOSST....522904",
+        "debit": 14048.71,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a13b19970e3882952bb191e745daae9a",
+        "reference": "ref 12",
+        "date": "09/05/2023",
+        "detail": "CRE. CAMBIOSOP....672229",
+        "debit": "",
+        "credit": 15102.06,
+        "extra_data": null
+      },
+      {
+        "id": "3327c3569057183dbaa9ac449023dc64",
+        "reference": "ref 13",
+        "date": "09/05/2023",
+        "detail": "ESSO SALTO",
+        "debit": 13480.98,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "55ec40a2870ff8b5afbabcd852eaffd4",
+        "reference": "ref 14",
+        "date": "09/05/2023",
+        "detail": "JD.ID*5C4C400EAFDC48C99C91",
+        "debit": 232.32,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7602bbe8f68783d001f0a4bc17cfad22",
+        "reference": "ref 15",
+        "date": "09/05/2023",
+        "detail": "DEB.CONTRATO5585970 014",
+        "debit": 6255.46,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "ede926f890727d1e5a68386c1ba09ca3",
+        "reference": "ref 16",
+        "date": "09/05/2023",
+        "detail": "REST CALIFORNIA BURRITMONTEVID",
+        "debit": 1110.33,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "5ef69f07c24629f470270182c30c3f22",
+        "reference": "ref 17",
+        "date": "09/05/2023",
+        "detail": "REDIVA 19210UTE962644639",
+        "debit": "",
+        "credit": 5689.23,
+        "extra_data": null
+      },
+      {
+        "id": "386c3b4a430537547c8685347bff2841",
+        "reference": "ref 18",
+        "date": "09/05/2023",
+        "detail": "DEB. CAMBIOSST....662236",
+        "debit": 12421.17,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a122366966a1676833c418d30e2739aa",
+        "reference": "ref 19",
+        "date": "09/05/2023",
+        "detail": "DEB. CAMBIOSST....574015",
+        "debit": 13697.72,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "600e91af95c72a3150ca9d9156e63555",
+        "reference": "ref 20",
+        "date": "09/05/2023",
+        "detail": "DEVOLUCION IVA CUOTA: 035",
+        "debit": "",
+        "credit": 17145.36,
+        "extra_data": null
+      },
+      {
+        "id": "ee5c5aedb697851006f176f65eeebb74",
+        "reference": "ref 21",
+        "date": "09/05/2023",
+        "detail": "THE BABY MARKET",
+        "debit": 13288.24,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "bbb4de3851d9cc55e5d4585910a83d24",
+        "reference": "ref 22",
+        "date": "09/05/2023",
+        "detail": "CRE. CAMBIOSOP....957051",
+        "debit": "",
+        "credit": 12017.36,
+        "extra_data": null
+      },
+      {
+        "id": "f756f6974dc9eef3691277c73bdc1afc",
+        "reference": "ref 23",
+        "date": "09/05/2023",
+        "detail": "UBER TRIP P5ZNN HELP",
+        "debit": 14233.43,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "ed8d309930fdd26f03856eddf22059fb",
+        "reference": "ref 24",
+        "date": "09/05/2023",
+        "detail": "PAGO AL CONTADOR",
+        "debit": 577.45,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "67846e75b389e8bffacf47a63f4a4a2e",
+        "reference": "ref 25",
+        "date": "09/05/2023",
+        "detail": "DEB. CAMBIOSST....226965",
+        "debit": 6216.05,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "348646a355e5a5b00632ee82903e0124",
+        "reference": "ref 26",
+        "date": "09/05/2023",
+        "detail": "UBER UY MFQ2Y HELP.U",
+        "debit": 7922.42,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "437d3f4c7ecbf2663e71998c841d1f7d",
+        "reference": "ref 27",
+        "date": "09/05/2023",
+        "detail": "CR. PAGO SUELDOS 20190702_1800200 ASOCIACION URUGUAYAO RT",
+        "debit": "",
+        "credit": 9489.1,
+        "extra_data": null
+      },
+      {
+        "id": "583be8788a29beae94f36189f66d9588",
+        "reference": "ref 28",
+        "date": "09/05/2023",
+        "detail": "REDIVA 19210ANCAP SOLIS",
+        "debit": "",
+        "credit": 3349.63,
+        "extra_data": null
+      },
+      {
+        "id": "a2301f631f09a1e0dab5b9d7cd150e45",
+        "reference": "ref 29",
+        "date": "09/05/2023",
+        "detail": "PAYPAL *PCCREATO",
+        "debit": 11142.38,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4c792644ab3961f975aacbfa6b150da9",
+        "reference": "ref 30",
+        "date": "09/05/2023",
+        "detail": "REDIVA 19210MLIBRE454996",
+        "debit": "",
+        "credit": 16431.93,
+        "extra_data": null
+      },
+      {
+        "id": "feec022c7e0b2f0b63d7d9c327aeec52",
+        "reference": "ref 31",
+        "date": "09/05/2023",
+        "detail": "CR. PAGO SUELDOS 20161226_8872107 RECURSOS HUMANOS",
+        "debit": "",
+        "credit": 13929.8,
+        "extra_data": null
+      },
+      {
+        "id": "e5d2f61e6f45dbe68bd39a696f3168de",
+        "reference": "ref 32",
+        "date": "09/05/2023",
+        "detail": "CAFE NOMADE",
+        "debit": 3730.88,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "465d733288ea77cc903f2013c32d0e75",
+        "reference": "ref 33",
+        "date": "09/05/2023",
+        "detail": "RETIRO EFECTIVO DISPENSADOR 362612TRX:00445284 SUC:81 CTA:16/98402209",
+        "debit": 2948.41,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8aa34ea95eab0d0ac08eed2c09bac476",
+        "reference": "ref 34",
+        "date": "09/05/2023",
+        "detail": "DEB.CONTRATO4799424 016",
+        "debit": 2951.31,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "02d0ab40c5ce3c899de194470c9fcc9d",
+        "reference": "ref 35",
+        "date": "09/05/2023",
+        "detail": "UBER TRIP EHYGZ HELP",
+        "debit": 1986.27,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "505948463beb3e9816dad87275c0f775",
+        "reference": "ref 36",
+        "date": "09/05/2023",
+        "detail": "DEB. CAMBIOSST....586050",
+        "debit": 5241.85,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b5c0589c3859f891bd38f73447c0ac83",
+        "reference": "ref 37",
+        "date": "09/05/2023",
+        "detail": "RIO GAS",
+        "debit": 749.09,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9a2e3d278fa997189a81a23870d4486c",
+        "reference": "ref 38",
+        "date": "09/05/2023",
+        "detail": "DEB. CAMBIOSST....749819",
+        "debit": 4652.26,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "694f0217b601740674df19c09abb35b7",
+        "reference": "ref 39",
+        "date": "09/05/2023",
+        "detail": "PARK PLAZA COUNTY HALL HO",
+        "debit": 9230.82,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "3764b03b83cf7a6deb01de5c228e55c3",
+        "reference": "ref 40",
+        "date": "09/05/2023",
+        "detail": "CRE. CAMBIOSOP....085924",
+        "debit": "",
+        "credit": 2988.83,
+        "extra_data": null
+      },
+      {
+        "id": "1c6fdac21a890e0348a0a4e0eceb3125",
+        "reference": "ref 41",
+        "date": "09/05/2023",
+        "detail": "REDIVA 19210OSE203939448",
+        "debit": "",
+        "credit": 4381.4,
+        "extra_data": null
+      },
+      {
+        "id": "25e9966a111d21244ab881e168df475f",
+        "reference": "ref 42",
+        "date": "09/05/2023",
+        "detail": "REDIVA 19210OSE235832911",
+        "debit": "",
+        "credit": 4827.1,
+        "extra_data": null
+      },
+      {
+        "id": "9b6e786e7103a3e99a013959f195f926",
+        "reference": "ref 43",
+        "date": "09/05/2023",
+        "detail": "DEB. CAMBIOSST....237640",
+        "debit": 4754.18,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8a963a6970761a39906228d78d8dc76d",
+        "reference": "ref 44",
+        "date": "09/05/2023",
+        "detail": "PARRILLADA SOLANAS",
+        "debit": 2432.86,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "6ad092262f4c418425485acd4d70323c",
+        "reference": "ref 45",
+        "date": "09/05/2023",
+        "detail": "FERRETERIA DIGITAL",
+        "debit": 12173.98,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "6ad61bb4b077cba7b1041be0696eef60",
+        "reference": "ref 46",
+        "date": "09/05/2023",
+        "detail": "UBER GUIYG HELP.UBER",
+        "debit": 9782.56,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "488734dab28d6fbacc3d57516fba0d9d",
+        "reference": "ref 47",
+        "date": "09/05/2023",
+        "detail": "DEB. CAMBIOSST....456085",
+        "debit": 14322.16,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "80686c976e8c47a024a26502c927b76a",
+        "reference": "ref 48",
+        "date": "09/05/2023",
+        "detail": "DEB.CONTRATO4678785 003",
+        "debit": 1843.62,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7dde655f472b87e1c3672c520c1ddf4d",
+        "reference": "ref 49",
+        "date": "09/05/2023",
+        "detail": "BARRACA CENTRAL LTDA",
+        "debit": 6708.69,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7a2b2e62160d845bd6483687d6b30e24",
+        "reference": "ref 50",
+        "date": "09/05/2023",
+        "detail": "CR. PAGO SUELDOS 20171127_8279299 RECURSOS HUMANOS",
+        "debit": "",
+        "credit": 15798.28,
+        "extra_data": null
+      },
+      {
+        "id": "4c89e536e1c91a4ee00078cef35e432e",
+        "reference": "ref 51",
+        "date": "09/05/2023",
+        "detail": "LOST",
+        "debit": 10710.82,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "aecd1df2875be1d294216cc782be7ff2",
+        "reference": "ref 52",
+        "date": "09/05/2023",
+        "detail": "CRE. CAMBIOSOP....831935",
+        "debit": "",
+        "credit": 5260.94,
+        "extra_data": null
+      },
+      {
+        "id": "35d762373dc06d8f194a5458b15e2eb2",
+        "reference": "ref 53",
+        "date": "09/05/2023",
+        "detail": "DEB. CAMBIOSST....974346",
+        "debit": 10636.09,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "1de52fc1e6f263819a5ce701a4a65c46",
+        "reference": "ref 54",
+        "date": "09/05/2023",
+        "detail": "DEB. CAMBIOSST....127258",
+        "debit": 2296.98,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "62891293feafeb7bff541cbbe098893d",
+        "reference": "ref 0",
+        "date": "10/05/2023",
+        "detail": "TIENDAS RIO DE LA PLATA",
+        "debit": 6020.2,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4fdf9e72caff39e8e51db8e73d157967",
+        "reference": "ref 1",
+        "date": "10/05/2023",
+        "detail": "CR. PAGO SUELDOS 20160222_4079300 SISTEMAS GLOBALES UR UGUAY SOC",
+        "debit": "",
+        "credit": 7645.85,
+        "extra_data": null
+      },
+      {
+        "id": "61e27548375d94cc18cfedf566edf30e",
+        "reference": "ref 2",
+        "date": "10/05/2023",
+        "detail": "DEB.CONTRATO3100362 013",
+        "debit": 2156.37,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "bea2fe0b3ca83f7a1973735d422425f3",
+        "reference": "ref 3",
+        "date": "10/05/2023",
+        "detail": "ANCAP ESTACION VERDE",
+        "debit": 182.03,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "667b78ca7505261ac5946d7a7b20ce6e",
+        "reference": "ref 4",
+        "date": "10/05/2023",
+        "detail": "REST PATAGONIA BREWINGPUERTO",
+        "debit": 966.59,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "8312f20cba68ae776da1199030b05425",
+        "reference": "ref 5",
+        "date": "10/05/2023",
+        "detail": "CRE. CAMBIOSOP....156005",
+        "debit": "",
+        "credit": 15775.16,
+        "extra_data": null
+      },
+      {
+        "id": "11c599f13bec7812d17654ae0d57eb3d",
+        "reference": "ref 6",
+        "date": "10/05/2023",
+        "detail": "DEB. CAMBIOSST....840661",
+        "debit": 366.62,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "5f6a05c6836e0d481b9051e877d98b3f",
+        "reference": "ref 7",
+        "date": "10/05/2023",
+        "detail": "UBER TRIP NOSEQ HELP",
+        "debit": 13193.47,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f215fe794934bb76250eb6b72a449cda",
+        "reference": "ref 8",
+        "date": "10/05/2023",
+        "detail": "DEB. CAMBIOSST....635687",
+        "debit": 281.28,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "76f19bc863f28bad3e127d220573d75c",
+        "reference": "ref 9",
+        "date": "10/05/2023",
+        "detail": "ALBA UNIFORMES",
+        "debit": 4845.01,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "ec979448cec16b49415a43b029dac608",
+        "reference": "ref 10",
+        "date": "10/05/2023",
+        "detail": "CR. PAGO SUELDOS 20180306_1400200 P.R. LIMITADA",
+        "debit": "",
+        "credit": 10351.95,
+        "extra_data": null
+      },
+      {
+        "id": "857c9e20ff461bbbdb23d552f1c5f01d",
+        "reference": "ref 11",
+        "date": "10/05/2023",
+        "detail": "GUM.CO/CQRSI",
+        "debit": 14965.58,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "873d6557f5f68492b40e743f6b8882da",
+        "reference": "ref 12",
+        "date": "10/05/2023",
+        "detail": "PAYPAL *TIMBUK2 COM",
+        "debit": 1215.52,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "dd3338d1a18f4e211c9be23c763b7a9e",
+        "reference": "ref 13",
+        "date": "10/05/2023",
+        "detail": "CR. PAGO SUELDOS 20180209_0016000 TOP SYSTEMS SOCIEDAD ANONIMA",
+        "debit": "",
+        "credit": 5040.47,
+        "extra_data": null
+      },
+      {
+        "id": "2b0d9c9740b1374fd42aff103c502eaf",
+        "reference": "ref 14",
+        "date": "10/05/2023",
+        "detail": "REDIVA 19210BR IMPORTACI",
+        "debit": "",
+        "credit": 7453.74,
+        "extra_data": null
+      },
+      {
+        "id": "96b4635e8c875da29d457d71e8b26efd",
+        "reference": "ref 15",
+        "date": "10/05/2023",
+        "detail": "DEB. CAMBIOSST....662236",
+        "debit": 14534.32,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "dbd18cf239e32972ded107741067f728",
+        "reference": "ref 16",
+        "date": "10/05/2023",
+        "detail": "UBER XVTBU HELP.UBER.COM",
+        "debit": 11880.21,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "26fc8552089e86090d2c7a855265da90",
+        "reference": "ref 17",
+        "date": "10/05/2023",
+        "detail": "UBER TRIP FNJ6U HELP.UBER",
+        "debit": 14073.52,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d5fe46214e7c30f2ef9ea178ce95242f",
+        "reference": "ref 18",
+        "date": "10/05/2023",
+        "detail": "SHOPEE.CO.ID*78FD4A023672499ABA68",
+        "debit": 1189.07,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "9bd74dd6a544a17d614e7bc52022b0f7",
+        "reference": "ref 19",
+        "date": "10/05/2023",
+        "detail": "REDIVA 19210UTE312229728",
+        "debit": "",
+        "credit": 16422.88,
+        "extra_data": null
+      },
+      {
+        "id": "1ae10daca092457e67694f2e651b0bf2",
+        "reference": "ref 20",
+        "date": "10/05/2023",
+        "detail": "PANADERIA DON ARIEL",
+        "debit": 13295.05,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e2d07ec3c8f80004c5b6946aeda320f0",
+        "reference": "ref 21",
+        "date": "10/05/2023",
+        "detail": "REDIVA 19210FARMACIA COS",
+        "debit": "",
+        "credit": 13158.32,
+        "extra_data": null
+      },
+      {
+        "id": "1a89e79f834361bb4a4b6b2d124e25a6",
+        "reference": "ref 22",
+        "date": "10/05/2023",
+        "detail": "UBER TRIP H5AOR HELP",
+        "debit": 9336.83,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "f7a8cab98a4be1cca100428394e0700b",
+        "reference": "ref 23",
+        "date": "10/05/2023",
+        "detail": "DEB.CONTRATO5572825 010",
+        "debit": 9192.98,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "b27bb30c2e0896df6638ed4b58a0afa1",
+        "reference": "ref 24",
+        "date": "10/05/2023",
+        "detail": "REDIVA 19210BLAS",
+        "debit": "",
+        "credit": 7224.47,
+        "extra_data": null
+      },
+      {
+        "id": "e6be0ce24897473fe5f1c79fe2df31a2",
+        "reference": "ref 25",
+        "date": "10/05/2023",
+        "detail": "GIVEDIRECTLY",
+        "debit": 9360.53,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "54bd85b5d9decf42cefca5c53f018c27",
+        "reference": "ref 26",
+        "date": "10/05/2023",
+        "detail": "COMISION POR CHEQUERA",
+        "debit": 6614.24,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "74589fe5bfb9b4bebc71d94c3955299b",
+        "reference": "ref 27",
+        "date": "10/05/2023",
+        "detail": "DEB. CAMBIOSST....395129",
+        "debit": 8336.91,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "1cba45d534afee0c12651ef6be332422",
+        "reference": "ref 28",
+        "date": "10/05/2023",
+        "detail": "PAYU.COM",
+        "debit": 4785.86,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e9893fa2d16f7cb5101b386030ea8398",
+        "reference": "ref 29",
+        "date": "10/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 002804TRX:5033954 SUC:71 DISP:1 4/376728 TARJ:XX0278",
+        "debit": 14785.7,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "e4111740d83d487bc5a9a6b5ae9dd699",
+        "reference": "ref 30",
+        "date": "10/05/2023",
+        "detail": "DEB. CAMBIOSST....861099",
+        "debit": 509.22,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "223f15339f2c9b3c3ef69aff61bc0efd",
+        "reference": "ref 31",
+        "date": "10/05/2023",
+        "detail": "ESTABLECIMIENTO JOANICCANELONE",
+        "debit": 9869.78,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "45cf0a604edba7da96b935de0858d62d",
+        "reference": "ref 32",
+        "date": "10/05/2023",
+        "detail": "UBER TRIP AFYNO HELP",
+        "debit": 1336.3,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "67efdc8b898abd0e74c40171544a3672",
+        "reference": "ref 33",
+        "date": "10/05/2023",
+        "detail": "DEB.CONTRATO5626381 013",
+        "debit": 1495.57,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "0085f20f2af7d29846dfe8a7d323e670",
+        "reference": "ref 34",
+        "date": "10/05/2023",
+        "detail": "COBRO CUOTA PRESTAMO AMORTIZABLE 500040009356 CUO: 059",
+        "debit": 6936.8,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "5d9f444f753425aeea8e83c16ca26ef8",
+        "reference": "ref 35",
+        "date": "10/05/2023",
+        "detail": "PANADERIA COLON",
+        "debit": 10045.26,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d1e2239910bddc359792551020c10e10",
+        "reference": "ref 36",
+        "date": "10/05/2023",
+        "detail": "CR. PAGO SUELDOS 20200120_8465200 PR LIMITADA",
+        "debit": "",
+        "credit": 12156.11,
+        "extra_data": null
+      },
+      {
+        "id": "95951228900cf9cc87ad3192810f7a31",
+        "reference": "ref 37",
+        "date": "10/05/2023",
+        "detail": "ENVATOMARKET41849043",
+        "debit": 7823.86,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "c96bede2fb29672a0031ac6ae3606ba3",
+        "reference": "ref 38",
+        "date": "10/05/2023",
+        "detail": "UBER TRIP 76YUN HELP",
+        "debit": 2740.4,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "2ef0f110bf1b491634921d1cb4bdeb7f",
+        "reference": "ref 39",
+        "date": "10/05/2023",
+        "detail": "DEB.CONTRATO5497326 006",
+        "debit": 5687.62,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "27a59d32ca3fff72f7c42d46c1a7ab5a",
+        "reference": "ref 40",
+        "date": "10/05/2023",
+        "detail": "LOJAS RENNER UR CUOTA 01/02",
+        "debit": 2263.76,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "09783ae2d842e0e1770fb6a8df9884b0",
+        "reference": "ref 41",
+        "date": "10/05/2023",
+        "detail": "NAME-CHEAP.COM NAME-CH",
+        "debit": 14843.45,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "d22a9eef231b28c8254bcd6cda6e0331",
+        "reference": "ref 42",
+        "date": "10/05/2023",
+        "detail": "DEB. CAMBIOSST....931670",
+        "debit": 13633.17,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "36f3911b63625afbbf36f9552daec98f",
+        "reference": "ref 43",
+        "date": "10/05/2023",
+        "detail": "UBER UY JUN18 FNNNF",
+        "debit": 14476.11,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "de184896da2b63960b58a130abbfee98",
+        "reference": "ref 44",
+        "date": "10/05/2023",
+        "detail": "DEB. CAMBIOSST....213536",
+        "debit": 1029.62,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "a8d0e98d94fb63d8018adc52b36678c7",
+        "reference": "ref 45",
+        "date": "10/05/2023",
+        "detail": "RETIRO BANRED DISPENSADOR 966838TRX:909214 SUC:16 DISP:57 4/7003583940 TARJ:XX3484",
+        "debit": 10600.2,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "84ad6c48055b37ebab4f1a16f448f8b5",
+        "reference": "ref 46",
+        "date": "10/05/2023",
+        "detail": "REDIVA 19210MOUSTACHE",
+        "debit": "",
+        "credit": 9632.13,
+        "extra_data": null
+      },
+      {
+        "id": "24748f75b7bf5ff5ef8213851341f40e",
+        "reference": "ref 47",
+        "date": "10/05/2023",
+        "detail": "OPTICA GRAND VI CUOTA 05/06",
+        "debit": 1045.1,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7a2b7c78cb99d8ef19d3e9a0f3291780",
+        "reference": "ref 48",
+        "date": "10/05/2023",
+        "detail": "DEB. CAMBIOSST....713887",
+        "debit": 10231.7,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "51d64f0715854a688c610d9fc7363e3b",
+        "reference": "ref 49",
+        "date": "10/05/2023",
+        "detail": "DEB. CAMBIOSST....238336",
+        "debit": 1757.89,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "4fa4d625df0550157daa08eb2da2c120",
+        "reference": "ref 50",
+        "date": "10/05/2023",
+        "detail": "UBER TRIP FGOE2 HELP.UBER",
+        "debit": 5108.25,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "99129d59d23eebe314dd580ad6a2cd7c",
+        "reference": "ref 51",
+        "date": "10/05/2023",
+        "detail": "PAGO DE FACTURA 050788 UTE_B UTE FACT. 220041795113",
+        "debit": 1243.93,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "2127d1adcf9c0832335bbbfd2eba3674",
+        "reference": "ref 52",
+        "date": "10/05/2023",
+        "detail": "VALERIA BUXBAUM",
+        "debit": 11185.3,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "80dd1dd87b3c3e3ba4015b32184633d2",
+        "reference": "ref 53",
+        "date": "10/05/2023",
+        "detail": "UBER TRIP 5746C HELP",
+        "debit": 5644.73,
+        "credit": "",
+        "extra_data": null
+      },
+      {
+        "id": "7f691d789924833cf4154dcefebfc382",
+        "reference": "ref 54",
+        "date": "10/05/2023",
+        "detail": "DEBITO RED EXTERNA EXTERNAL_OP_PAGO 127481 - PGZ-FACT:8781127/RF:8781127481 -",
+        "debit": 6924.09,
+        "credit": "",
+        "extra_data": null
+      }
+    ]
+  }

@@ -1,0 +1,276 @@
+https://docs.prometeoapi.com/reference/getproviders
+{
+  "status": "success",
+  "providers": [
+    {
+      "code": "bogota_corp_co",
+      "name": "Empresas - Banco de Bogota",
+      "country": "CO"
+    },
+    {
+      "code": "santander_corp_br",
+      "name": "Santander Empresas Brasil",
+      "country": "BR"
+    },
+    {
+      "code": "bancoestado_pers_cl",
+      "name": "Banco del Estado",
+      "country": "CL"
+    },
+    {
+      "code": "scotia_pers_pe",
+      "name": "Scotiabank Peru",
+      "country": "PE"
+    },
+    {
+      "code": "davivienda_pers_co",
+      "name": "Davivienda",
+      "country": "CO"
+    },
+    {
+      "code": "citibanamex_pers_mx",
+      "name": "CitiBanamex",
+      "country": "MX"
+    },
+    {
+      "code": "comercio_corp_ar",
+      "name": "Banco de Comercio Empresas",
+      "country": "AR"
+    },
+    {
+      "code": "intermatico_pers_ec",
+      "name": "Banco del Pacifico - Personas",
+      "country": "EC"
+    },
+    {
+      "code": "pichincha_corp_pe",
+      "name": "Banco Pichincha Cash Financiero",
+      "country": "PE"
+    },
+    {
+      "code": "scotia_pers_cl",
+      "name": "Scotiabank Personas Chile",
+      "country": "CL"
+    },
+    {
+      "code": "interbank_corp_pe",
+      "name": "Interbank Empresas",
+      "country": "PE"
+    },
+    {
+      "code": "bbva_pers_mx",
+      "name": "BBVA México",
+      "country": "MX"
+    },
+    {
+      "code": "cap_pers_pa",
+      "name": "Caja de Ahorros",
+      "country": "PA"
+    },
+    {
+      "code": "bbva_corp_mx",
+      "name": "BBVA Empresas y Gobierno",
+      "country": "MX"
+    },
+    {
+      "code": "banorte_corp_mx",
+      "name": "Banorte Empresas y Corporativos",
+      "country": "MX"
+    },
+    {
+      "code": "bogota_pers_co",
+      "name": "Bogota Persona Colombia",
+      "country": "CO"
+    },
+    {
+      "code": "brou_pers_uy",
+      "name": "BROU",
+      "country": "UY"
+    },
+    {
+      "code": "transfeera_br",
+      "name": "Transfeera Brazil",
+      "country": "BR"
+    },
+    {
+      "code": "davivienda_smes_co",
+      "name": "Davivienda Empresas Colombia",
+      "country": "CO"
+    },
+    {
+      "code": "bna_pers_ar",
+      "name": "Banco Nación",
+      "country": "AR"
+    },
+    {
+      "code": "scotia_corp_mx",
+      "name": "Empresas - Scotiabank Mexico",
+      "country": "MX"
+    },
+    {
+      "code": "test",
+      "name": "Test Provider",
+      "country": "UY"
+    },
+    {
+      "code": "itau_corp_br",
+      "name": "Itaú Empresas Brasil",
+      "country": "BR"
+    },
+    {
+      "code": "edenred_pers_uy",
+      "name": "Edenred",
+      "country": "UY"
+    },
+    {
+      "code": "santander_pers_uy",
+      "name": "Banco Santander Uruguay",
+      "country": "UY"
+    },
+    {
+      "code": "scotia_smes_pe",
+      "name": "Empresas - Scotiabank Peru",
+      "country": "PE"
+    },
+    {
+      "code": "bancogeneral_pers_pa",
+      "name": "Banco General",
+      "country": "PA"
+    },
+    {
+      "code": "bnp_pers_pa",
+      "name": "Banco Nacional de Panama",
+      "country": "PA"
+    },
+    {
+      "code": "redlink_ar",
+      "name": "Redlink Argentina",
+      "country": "AR"
+    },
+    {
+      "code": "bcp_pers_pe",
+      "name": "Banco de Crédito de Perú",
+      "country": "PE"
+    },
+    {
+      "code": "bancolombia_corp_co",
+      "name": "Bancolombia Empresas",
+      "country": "CO"
+    },
+    {
+      "code": "pichincha_pers_ec",
+      "name": "Pichincha Personas",
+      "country": "EC"
+    },
+    {
+      "code": "santander_pers_cl",
+      "name": "Banco Santander Chile",
+      "country": "CL"
+    },
+    {
+      "code": "itau_pers_uy",
+      "name": "Itaú",
+      "country": "UY"
+    },
+    {
+      "code": "bancolombia_pers_co",
+      "name": "Bancolombia",
+      "country": "CO"
+    },
+    {
+      "code": "cobrosimple_corp_pe",
+      "name": "Cobro Simple - Interbank",
+      "country": "PE"
+    },
+    {
+      "code": "monex_mx",
+      "name": "Monex Mexico",
+      "country": "MX"
+    },
+    {
+      "code": "banorte_pers_mx",
+      "name": "Banorte",
+      "country": "MX"
+    },
+    {
+      "code": "midinero_pers_uy",
+      "name": "Midinero",
+      "country": "UY"
+    },
+    {
+      "code": "starkbank_corp_br",
+      "name": "Start Bank Empresas Brasil",
+      "country": "BR"
+    },
+    {
+      "code": "bci_corp_cl",
+      "name": "BCI Corp",
+      "country": "CL"
+    },
+    {
+      "code": "baninter_pers_ec",
+      "name": "Banco Internacional",
+      "country": "EC"
+    },
+    {
+      "code": "bcp_pers_pe_mock",
+      "name": "Banco de Crédito de Perú - Mock",
+      "country": "PE"
+    },
+    {
+      "code": "pichincha_corp_ec",
+      "name": "Pichincha Empresas",
+      "country": "EC"
+    },
+    {
+      "code": "bbva_pers_co",
+      "name": "BBVA Colombia",
+      "country": "CO"
+    },
+    {
+      "code": "bbva_corp_pe",
+      "name": "BBVA Net Cash Peru",
+      "country": "PE"
+    },
+    {
+      "code": "brou_pers_uy_mock",
+      "name": "BROU - Mock",
+      "country": "UY"
+    },
+    {
+      "code": "interbank_pers_pe",
+      "name": "Interbank",
+      "country": "PE"
+    },
+    {
+      "code": "itau_corp_uy",
+      "name": "Itaú Empresas Uruguay",
+      "country": "UY"
+    },
+    {
+      "code": "bcp_corp_pe",
+      "name": "Telecrédito - BCP",
+      "country": "PE"
+    },
+    {
+      "code": "santander_pers_mx",
+      "name": "Santander México",
+      "country": "MX"
+    },
+    {
+      "code": "bbva_pers_pe",
+      "name": "BBVA Personas Peru",
+      "country": "PE"
+    },
+    {
+      "code": "banbif_corp_pe",
+      "name": "BanBif - Banco Interamericano de Finanzas",
+      "country": "PE"
+    },
+    {
+      "code": "telebanking_corp_pe",
+      "name": "Telebanking Scotiabank Empresas Peru",
+      "country": "PE"
+    }
+  ]
+}

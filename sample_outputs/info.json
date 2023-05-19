@@ -1,0 +1,8 @@
+{
+  "status": "success",
+  "info": {
+    "name": "Test User",
+    "document": "12345",
+    "email": "test@example.com"
+  }
+}
